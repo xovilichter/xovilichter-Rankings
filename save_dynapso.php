@@ -19,3 +19,7 @@ foreach($matches[1] as $n => $position){
 $save_file = fopen("./dynapso/".date('Y-m-d-H-i').'.txt',"w+");
 fwrite($save_file, implode("\n", $rankings_rows));
 fclose($save_file);
+
+$save_file = fopen("./dynapso/current.txt","w+");
+fwrite($save_file, implode("\n", $rankings_rows));
+fclose($save_file);

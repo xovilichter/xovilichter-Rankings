@@ -26,10 +26,10 @@ foreach($matches[2] as $n => $position){
 	$rankings_rows[] = $position."\t".$matches[4][$n];
 }
 
-$save_file = fopen("./xovi/".date('Y-m-d-H-i').'.txt',"w+");
+$save_file = fopen(dirname(__FILE__)."/xovi/".date('Y-m-d-H-i').'.txt',"w+");
 fwrite($save_file, implode("\n", $rankings_rows));
 fclose($save_file);
 
-$save_file = fopen("./xovi/current.txt","w+");
+$save_file = fopen(dirname(__FILE__)."/xovi/current.txt","w+");
 fwrite($save_file, implode("\n", $rankings_rows));
 fclose($save_file);

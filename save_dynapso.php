@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $ch = curl_init(); 
 curl_setopt($ch, CURLOPT_URL, "http://www.dynapso.de/xovilichter/"); 
@@ -16,10 +16,10 @@ foreach($matches[1] as $n => $position){
 	$rankings_rows[] = $position."\t".$matches[3][$n];
 }
 
-$save_file = fopen("./dynapso/".date('Y-m-d-H-i').'.txt',"w+");
+$save_file = fopen(dirname(__FILE__)."/dynapso/".date('Y-m-d-H-i').'.txt',"w+");
 fwrite($save_file, implode("\n", $rankings_rows));
 fclose($save_file);
 
-$save_file = fopen("./dynapso/current.txt","w+");
+$save_file = fopen(dirname(__FILE__)."/dynapso/current.txt","w+");
 fwrite($save_file, implode("\n", $rankings_rows));
 fclose($save_file);

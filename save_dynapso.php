@@ -15,8 +15,8 @@ foreach($scraper_results['search_results'] as $n => $search_result){
 	$row[] = $search_result['position'];
 	$row[] = $search_result['url'];
 	$row[] = $search_result['type'];
-	$row[] = $search_result['google_plus']['name'];
-	$row[] = $search_result['google_plus']['short_url'];
+	$row[] = (!empty($search_result['google_plus']['name']) ? $search_result['google_plus']['name'] : '');
+	$row[] = (!empty($search_result['google_plus']['short_url']) ? $search_result['google_plus']['short_url'] : '');
 
 	$rankings_rows[] = implode("\t", $row);
 

@@ -1,0 +1,107 @@
+last_update:0000-00-00 00:00
+position	url	type	google_plus_name	google_plus_short_url
+1	http://www.xovi.de/xovilichter/	organic		
+2	http://www.habbo.cx/xovilichter	organic		
+3	http://www.dynapso.de/xovilichter/	organic	Nicolas Sacotte	http://dynap.so/21C
+4	http://ronny-marx.de/xovilichter/	organic	Ronny Marx	http://dynap.so/9M4
+4	http://www.stock-world.de/nachrichten/ausland/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-deutsch-n5721349.html	news		
+5	http://www.xovilichter-smx.de/	organic		
+6	http://aus.gerech.net/xovilichter/	organic	Ingo Henze	http://dynap.so/y
+7	http://www.google-gamer.de/xovilichter/	organic	Julian Raab	http://dynap.so/9Nh
+8	https://www.deutsche-mikroinvest.de/xovilichter	organic		
+9	http://event-xovilichter.de/	organic	Marco Götze	http://dynap.so/a1R
+10	http://www.domfolio.de/xovilichter/	organic	Jens Peterssen	http://dynap.so/ez
+11	http://www.omsag.de/xovilichter/	organic	Blanka Szczebak	http://dynap.so/1cd
+12	http://www.xovilichter-koeln.de/	organic	Kristian Fischer	http://dynap.so/a3z
+13	http://xovilichter-73.de/xovilichter-keyword-challenge/	organic		
+14	http://www.xovilichter-news.de/	organic		
+15	http://www.contentking.de/neuer-seo-contest-xovilichter/	organic	Nicolas Sacotte	http://dynap.so/21C
+16	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	organic	Heiko Stiegert	http://dynap.so/9wh
+17	http://xtremegn.de/webdesign/xovilichter/	organic	Tommy Weber	http://dynap.so/a1f
+18	http://www.xovilichter-wettkampf.de/	organic		
+19	http://dynamite-domains.de/	organic		
+20	http://www.suchmaschinenmonitor.de/xovilichter	organic	Julian Roedig	http://dynap.so/a5o
+21	http://www.reknova.de/xovilichter	organic	Daniel Bruckhaus	http://dynap.so/9T3
+22	http://www.die-infoseiten.de/xovilichter/	organic		
+23	http://www.xovilichter-seo.de/	organic	Arno Münzer	http://dynap.so/9P8
+24	http://www.syntax-media.de/xovilichter/	organic	Carsten Zedler	http://dynap.so/a4c
+25	http://ebolgo.com/xovilichter-in-koeln/	organic	Gregor Hennig	http://dynap.so/a2I
+26	http://www.xovilichterblog.de/	organic	Alex Buchanan	http://dynap.so/a1s
+27	http://www.xovilichter-wettbewerb.de/	organic	Enrico Schuetze	http://dynap.so/1hD
+28	http://xovilichter.complex-berlin.de/	organic	Harald Hildebrandt	http://dynap.so/m4
+29	http://www.xovilichter.name/	organic		
+29	http://www.youtube.com/watch?v=TcuKKhG8NOY	youtube.com		
+30	http://www.xovilichter-oms.de/	organic	Mario Porst	http://dynap.so/1eQ
+31	http://felodeseo.com/xovilichter/	organic		
+32	http://www.xovilichter-challenge.de/	organic		
+33	http://www.xovilichter2014.de/	organic		
+34	https://www.xovilichter-shop.de/	organic		
+35	http://www.tobias-fox.de/seo/xovilichter	organic	Tobias Fox	http://dynap.so/WU
+36	http://www.wrel.de/xovilichter/	organic		
+37	https://www.facebook.com/xovilichter2014	organic		
+38	http://netgrade.de/xovilichter/	organic	Robert Kolloch	http://dynap.so/c4
+39	http://xovilichter-goettingen.de/	organic		
+40	http://www.xovilichter-event.de/	organic		
+41	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	organic	Lars Budde	http://dynap.so/9Eu
+42	http://www.seekport.de/web/xovilichter.com	organic		
+43	http://xovilichter-contest.de/	organic	Julian Riefsdahl	http://dynap.so/a1F
+44	http://www.illerseo.de/xovilichter	organic	Steffen Pahl	http://dynap.so/a1i
+45	http://www.xovilichterr.de/	organic		
+46	http://xovilichter-xovilichter.de/	organic		
+47	http://www.xovilicht.com/	organic		
+48	https://twitter.com/#!/search/#xovilichter	organic		
+49	http://www.xovilichter-omsag.de/	organic		
+50	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	organic		
+51	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	organic	Pierre Schramm	http://dynap.so/9S1
+52	http://www.geschichte-oesterreich.com/xovilichter	organic	Bernhard Angeler	http://dynap.so/VZ
+53	http://webropolis.com/xovilichter/news/4411/	organic	Frank Reymann	http://dynap.so/1ne
+54	https://www.bibeo.de/xovilichter/	organic		
+55	http://www.onlinemarketing-spezialist.de/xovilichter	organic		
+56	http://www.xovilichter.in/	organic		
+56	http://ronny-marx.de/xovilichter/wp-content/uploads/xovilichter.jpg	image		
+56	http://www.g2smedia.de/wp-content/uploads/mehr-xovilichter.jpg	image		
+56	http://t3n.de/news/wp-content/uploads/2014/05/seo-wettbewerb-xovilichter.jpg	image		
+56	http://www.g2smedia.de/wp-content/uploads/wer-gewinnt-xovilichter.jpg	image		
+57	http://xovilichtschein.wordpress.com/	organic		
+58	http://www.julian-raab.de/xovilichter-das-ultimative-feuerwerk-2014-koeln/	organic	Julian Raab	http://dynap.so/9Nh
+59	http://www.finanzen.net/nachricht/aktien/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-3578015	organic		
+60	http://www.g2smedia.de/xovilichter/	organic	Stefan Seibel	http://dynap.so/9NI
+61	http://blog.netformic.de/xovilichter/	organic		
+62	http://www.was-ist-seo.biz/wp-content/uploads/2014/05/XOVILICHTER-2014.pdf	organic		
+63	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	organic		
+64	http://www.pilotenausbildung-24.de/xovilichter/	organic		
+65	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	organic		
+66	http://www.slms.de/xovilichter/	organic		
+67	http://www.xovilichter-info.de/	organic	Jürgen Hecht	http://dynap.so/a76
+68	http://www.dark-xovilichter.de/	organic		
+69	http://rankpress.de/xovilichter-2014/	organic	Michael Boenigk	http://dynap.so/9LC
+70	http://xovi-lichter.com/	organic		
+71	http://www.rjmedia.de/xovilichter/	organic		
+72	http://www.seodiddy.com/xovilichter/	organic		
+73	http://www.ad-hoc-news.de/omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer--/de/News/37044532	organic		
+74	http://www.xovilichter.de.rs/	organic		
+75	http://www.xovilichterevent.de/	organic		
+76	http://cbop.de/xovilichter/	organic	Marcel Köhler	http://dynap.so/MP
+77	http://www.hoher-norden.de/	organic		
+78	https://www.azionare360.de/de/tag/xovilichter/	organic		
+79	http://www.xovi-lichter.eu/	organic		
+80	http://carsten-tauber.de/xovilichter-die-ersten-woche/	organic	Carsten Tauber	http://dynap.so/9OM
+81	http://xovilichter.innovarion.de/	organic		
+82	http://www.gute-linkpartner.de/unbekannte-lichter.html	organic		
+83	http://www.xovilichter24.com/	organic		
+84	http://www.xovilichter-24.de/	organic		
+85	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	organic		
+86	http://www.webspurt-presse.de/xovilichter-seo-contest/	organic		
+87	http://xovilichter-gewinner.de/	organic		
+88	http://www.test.com.de/xovilichter	organic		
+89	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	organic	Oliver Höß	http://dynap.so/a0B
+90	http://www.verkaufe-erfolgreich.de/geheimnisvolle-xovilichter-am-koelner-himmel-raetsel-geloest.html	organic		
+91	http://xovilichter.online-seo-check.de/	organic		
+92	http://www.prseo.de/xovilichter.html	organic		
+93	http://heiko-hoehn.com/2014/05/01/xovilichter/	organic	Heiko Höhn	http://dynap.so/6m
+94	http://www.webstadion.de/xovilichter/	organic		
+95	http://www.pinterest.com/xovilichter/	organic		
+96	http://www.marketingblog.eu/tag/xovilichter/	organic		
+97	http://www.seomira.de/xovilichter.html	organic		
+98	http://nrw.geotick.de/koeln/xovilichter/	organic		
+99	http://www.upon-onlinemarketing.de/xovilichter/	organic	Alex Buchanan	http://dynap.so/a1s

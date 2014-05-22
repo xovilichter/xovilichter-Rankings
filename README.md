@@ -13,6 +13,7 @@ Dieses Projekt speichert zu Archivzwecken die Xovi & Dynapso Ranking Auswertung 
 crontab -e
 */30     *      *     *    *    php /var/www/code/archive/save_xovi_rankings.php
 */30     *      *     *    *    php /var/www/code/archive/save_dynapso.php
+*/30     *      *     *    *    php /var/www/code/archive/save_aus.gerech.net.php
 ```
 
 # Dynapso Ausgabe
@@ -38,4 +39,16 @@ position	url
 3	http://www.dynapso.de/xovilichter/
 4	http://ronny-marx.de/xovilichter/
 5	http://www.xovilichter-smx.de/
+```
+
+# aus.gerech.net Ausgabe
+
+```no-highlight
+last_update:2014-05-22 03:00
+position	url	type	google_plus_name
+1	http://www.xovi.de/xovilichter/	txt	
+2	http://www.habbo.cx/xovilichter	txt	
+3	http://www.dynapso.de/xovilichter/	txt	Nicolas Sacotte
+4	http://ronny-marx.de/xovilichter/	txt	Ronny Marx
+5	http://www.xovilichter-smx.de/	txt	
 ```

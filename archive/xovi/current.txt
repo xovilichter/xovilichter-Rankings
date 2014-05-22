@@ -1,4 +1,4 @@
-last_update:2014-05-22 01:30
+last_update:2014-05-22 02:00
 position	url
 1	http://www.xovi.de/xovilichter/
 2	http://www.habbo.cx/xovilichter
@@ -11,8 +11,8 @@ position	url
 9	http://www.domfolio.de/xovilichter/
 10	http://www.reknova.de/xovilichter
 11	http://www.xovilichter-koeln.de/
-12	http://www.contentking.de/neuer-seo-contest-xovilichter/
-13	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/
+12	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/
+13	http://www.contentking.de/neuer-seo-contest-xovilichter/
 14	http://xtremegn.de/webdesign/xovilichter/
 15	http://www.syntax-media.de/xovilichter/
 16	http://event-xovilichter.de/

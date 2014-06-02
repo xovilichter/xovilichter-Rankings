@@ -1,4 +1,4 @@
-last_update:2014-06-02 16:00
+last_update:2014-06-02 15:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -106,9 +106,9 @@ position	url	type	google_plus_name
 100	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
 101	http://www.searchnmerge.com/XOVILICHTER.html	txt	
 102	https://www.bibeo.de/xovilichter/	txt	
-103	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
-104	http://xovilichter.myepoints.de/	txt	
-105	http://xovilichtschein.wordpress.com/	txt	
+103	http://xovilichter.myepoints.de/	txt	
+104	http://xovilichtschein.wordpress.com/	txt	
+105	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
 106	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 107	http://xovilichter-design.de/	txt	
 108	http://www.webstadion.de/xovilichter/	txt	

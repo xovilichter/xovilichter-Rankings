@@ -1,4 +1,4 @@
-last_update:2014-06-14 21:00
+last_update:2014-06-14 20:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -24,8 +24,8 @@ position	url	type	google_plus_name
 18	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
 19	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 20	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
-21	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
-22	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
+21	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
+22	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 23	http://www.suchmaschinenmonitor.de/xovilichter	txt	Julian Roedig
 24	https://twitter.com/hashtag/xovilichter	txt	
 25	http://www.quickdict.de/xovilichter/	txt	Jörg Gericke-Krumme
@@ -44,8 +44,8 @@ position	url	type	google_plus_name
 38	http://www.pilotenausbildung-24.de/xovilichter/	txt	
 39	https://www.facebook.com/xovilichter2014	txt	
 40	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
-41	http://netgrade.de/xovilichter/	txt	Robert Kolloch
-42	http://www.weihmann.de/blog/xovilichter/	txt	
+41	http://www.weihmann.de/blog/xovilichter/	txt	
+42	http://netgrade.de/xovilichter/	txt	Robert Kolloch
 43	http://www.seodiddy.com/xovilichter/	txt	
 44	http://www.3fx-media.de/xovilichter/	txt	
 45	http://o-pr.de/post/ronny-4-xovilichter/	txt	

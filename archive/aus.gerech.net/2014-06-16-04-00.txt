@@ -1,4 +1,4 @@
-last_update:2014-06-16 04:00
+last_update:2014-06-16 03:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -69,8 +69,8 @@ position	url	type	google_plus_name
 63	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 64	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
 65	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
-66	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
-67	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-contest-update/	txt	Pierre Schramm
+66	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-contest-update/	txt	Pierre Schramm
+67	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
 68	http://www.sumax.de/xovilichter	txt	
 69	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
 70	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
@@ -113,13 +113,13 @@ position	url	type	google_plus_name
 107	http://www.12praxismarketing.de/der-seo-contest-xovilichter/	txt	
 108	http://www.was-ist-seo.biz/xovilichter-2014/	txt	Christoph Rauth
 109	http://www.eibert.eu/xovilichter/	txt	Ingo Eibert
-110	http://imb.donau-uni.ac.at/online-targeting/xovilichter/	txt	
-111	http://www.hildesheimfirma.de/xovilichter.html	txt	
-112	http://www.unibrett.net/tausche/16633/Xovilichter	txt	
+110	http://www.test.com.de/xovilichter	txt	
+111	http://imb.donau-uni.ac.at/online-targeting/xovilichter/	txt	
+112	http://www.hildesheimfirma.de/xovilichter.html	txt	
 113	http://www.homepage-forum.de/showthread.php?t=59949	txt	
-114	https://www.bibeo.de/xovilichter/	txt	
-115	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
-116	http://www.toms-car-hifi.de/xovilichter	txt	
-117	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
-118	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
-119	http://www.kultur-kolumne.de/xovilichter/	txt	
+114	http://www.unibrett.net/tausche/16633/Xovilichter	txt	
+115	https://www.bibeo.de/xovilichter/	txt	
+116	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
+117	http://www.toms-car-hifi.de/xovilichter	txt	
+118	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
+119	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki

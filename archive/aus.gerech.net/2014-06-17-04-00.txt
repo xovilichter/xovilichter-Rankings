@@ -1,4 +1,4 @@
-last_update:2014-06-17 04:00
+last_update:2014-06-17 03:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -11,8 +11,8 @@ position	url	type	google_plus_name
 9	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 10	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 11.1	http://ronny-marx.de/xovilichter/	img	
-11.2	http://www.die-infoseiten.de/xovilichter/	img	
-11.3	http://www.dynapso.de/xovilichter/	img	
+11.2	http://www.dynapso.de/xovilichter/	img	
+11.3	http://www.die-infoseiten.de/xovilichter/	img	
 11.4	http://www.dynapso.de/xovilichter/	img	
 11.5	http://www.pilotenausbildung-24.de/xovilichter/	img	
 12	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
@@ -98,8 +98,8 @@ position	url	type	google_plus_name
 92	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
 93	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
 94	http://www.prseo.de/xovilichter.html	txt	
-95	http://www.webspurt-presse.de/webspurt-schiesst-im-xovilichter-contest-nach-oben/	txt	
-96	http://www.netznews.eu/xovilichter-seo-wettbewerb-die-halbzeitbilanz/	txt	
+95	http://www.netznews.eu/xovilichter-seo-wettbewerb-die-halbzeitbilanz/	txt	
+96	http://www.webspurt-presse.de/webspurt-schiesst-im-xovilichter-contest-nach-oben/	txt	
 97	http://www.flamedia.de/xovilichter/	txt	
 98	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
 99	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt

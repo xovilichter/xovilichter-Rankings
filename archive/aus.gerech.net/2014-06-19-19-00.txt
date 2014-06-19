@@ -1,4 +1,4 @@
-last_update:2014-06-19 19:00
+last_update:2014-06-19 18:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -8,12 +8,12 @@ position	url	type	google_plus_name
 6	http://www.search-one.de/xovilichter/	txt	
 7	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 8	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
-9.1	http://ronny-marx.de/xovilichter/	img	
-9.2	http://ronny-marx.de/xovilichter/	img	
-9.3	http://www.die-infoseiten.de/xovilichter/	img	
-9.4	http://www.pilotenausbildung-24.de/xovilichter/	img	
-9.5	http://www.dynapso.de/xovilichter/	img	
-10	http://www.xovilichter-smx.de/	txt	
+9	http://www.xovilichter-smx.de/	txt	
+10.1	http://ronny-marx.de/xovilichter/	img	
+10.2	http://schnurpsel.de/xovilichter/	img	
+10.3	http://www.dynapso.de/xovilichter/	img	
+10.4	http://ronny-marx.de/xovilichter/	img	
+10.5	http://schnurpsel.de/xovilichter/	img	
 11	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 12	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 13	http://aus.gerech.net/xovilichter/	txt	Ingo Henze

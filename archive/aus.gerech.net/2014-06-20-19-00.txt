@@ -1,4 +1,4 @@
-last_update:2014-06-20 19:00
+last_update:2014-06-20 18:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -7,12 +7,12 @@ position	url	type	google_plus_name
 5	http://www.search-one.de/xovilichter/	txt	
 6	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 7	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
-8	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
-9.1	http://ronny-marx.de/xovilichter/	img	
-9.2	http://schnurpsel.de/xovilichter/	img	
-9.3	http://ronny-marx.de/xovilichter/	img	
-9.4	http://www.dynapso.de/xovilichter/	img	
-9.5	http://www.g2smedia.de/xovilichter/	img	
+8.1	http://ronny-marx.de/xovilichter/	img	
+8.2	http://schnurpsel.de/xovilichter/	img	
+8.3	http://ronny-marx.de/xovilichter/	img	
+8.4	http://www.dynapso.de/xovilichter/	img	
+8.5	http://www.g2smedia.de/xovilichter/	img	
+9	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 10	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 11	http://www.xovilichter-smx.de/	txt	
 12	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
@@ -78,9 +78,9 @@ position	url	type	google_plus_name
 72	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
 73	http://seoptiker.de/xovilichter/	txt	dawid przybylski
 74	https://tribalhunt.zendesk.com/entries/71070517-Xovilichter	txt	
-75	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
-76	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
-77	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+75	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+76	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
+77	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
 78	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	txt	
 79	http://www.flamedia.de/xovilichter/	txt	
 80	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
@@ -92,8 +92,8 @@ position	url	type	google_plus_name
 86	http://www.searchnmerge.com/XOVILICHTER.html	txt	
 87	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
 88	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
-89	http://www.media-affin.de/xovilichter-by-xovi-2014	txt	Dominik Horn
-90	http://www.was-ist-seo.biz/wp-content/uploads/2014/05/XOVILICHTER-2014.pdf	txt	
+89	http://www.was-ist-seo.biz/wp-content/uploads/2014/05/XOVILICHTER-2014.pdf	txt	
+90	http://www.media-affin.de/xovilichter-by-xovi-2014	txt	Dominik Horn
 91	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
 92	http://www.xing.com/events/xovilichter-19-07-14-1401114	txt	
 93	http://www.boerse-online.de/nachrichten/aktien/DGAP-News--OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
@@ -105,8 +105,8 @@ position	url	type	google_plus_name
 99	http://14-tage-dresden.de/dd/xovilichter/	txt	
 100	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
 101	http://xovilichter.innovarion.de/	txt	
-102	http://jubiso.de/xovilichter/	txt	
-103	http://www.pinterest.com/xovilichter/	txt	
+102	http://www.pinterest.com/xovilichter/	txt	
+103	http://jubiso.de/xovilichter/	txt	
 104	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
 105	http://www.traffic-werk.de/xovilichter/	txt	
 106	http://www.notarztkurs.com/xovilichter	txt	
@@ -121,5 +121,5 @@ position	url	type	google_plus_name
 115	http://carsten-tauber.de/xovilicht-platz-1/	txt	
 116	http://www.machholz-online.de/xovilichter/xovilichter	txt	
 117	http://www.kpp-group.de/xovilichter-seo-wettbewerb/	txt	Wolfgang Brand
-118	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
-119	https://www.bibeo.de/xovilichter/	txt	
+118	https://www.bibeo.de/xovilichter/	txt	
+119	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler

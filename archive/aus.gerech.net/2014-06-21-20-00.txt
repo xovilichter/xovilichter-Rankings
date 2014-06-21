@@ -1,4 +1,4 @@
-last_update:2014-06-21 20:00
+last_update:2014-06-21 19:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -10,9 +10,9 @@ position	url	type	google_plus_name
 8	http://www.search-one.de/xovilichter/	txt	
 9.1	http://ronny-marx.de/xovilichter/	img	
 9.2	http://www.die-infoseiten.de/xovilichter/	img	
-9.3	http://www.dynapso.de/xovilichter/	img	
-9.4	http://www.pilotenausbildung-24.de/xovilichter/	img	
-9.5	http://www.dynapso.de/xovilichter/	img	
+9.3	http://ronny-marx.de/xovilichter/	img	
+9.4	http://www.dynapso.de/xovilichter/	img	
+9.5	http://www.pilotenausbildung-24.de/xovilichter/	img	
 10	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 11	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 12	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
@@ -41,9 +41,9 @@ position	url	type	google_plus_name
 35	http://felodeseo.com/xovilichter/	txt	
 36	http://xovilichter.myepoints.de/	txt	
 37	http://www.elsalumni.de/	txt	
-38	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
-39	http://netgrade.de/xovilichter/	txt	Robert Kolloch
-40	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+38	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+39	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
+40	http://netgrade.de/xovilichter/	txt	Robert Kolloch
 41	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 42	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
 43	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel

@@ -1,4 +1,4 @@
-last_update:2014-06-21 06:15
+last_update:2014-06-21 05:45
 position	url	type	google_plus_name	google_plus_short_url
 1	http://www.xovi.de/xovilichter/	organic		
 2	http://www.habbo.cx/xovilichter	organic		
@@ -67,8 +67,8 @@ position	url	type	google_plus_name	google_plus_short_url
 59	http://heiko-hoehn.com/2014/05/01/xovilichter/	organic	Heiko Höhn	http://dynap.so/6m
 60	http://www.etvisio.de/xovilichter.html	organic		
 61	http://schnurpsel.de/xovilichter/	organic	Ingo Henze	http://dynap.so/y
-62	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	organic		
-63	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	organic	Ingo Henze	http://dynap.so/y
+62	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	organic	Ingo Henze	http://dynap.so/y
+63	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	organic		
 64	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	organic		
 65	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	organic	Boris Alexeev	http://dynap.so/a46
 66	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	organic		

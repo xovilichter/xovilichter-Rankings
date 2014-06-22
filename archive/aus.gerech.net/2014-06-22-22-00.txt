@@ -1,4 +1,4 @@
-last_update:2014-06-22 22:00
+last_update:2014-06-22 21:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -55,8 +55,8 @@ position	url	type	google_plus_name
 49	http://www.dergeldblog.de/2014/05/28/xovilichter-machst-du-auch-mit/	txt	
 50	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 51	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
-52	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
-53	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+52	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+53	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
 54	http://seoptiker.de/xovilichter/	txt	dawid przybylski
 55	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 56	http://xovilichter.de.rs/	txt	

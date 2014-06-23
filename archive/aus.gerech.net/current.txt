@@ -1,4 +1,4 @@
-last_update:2014-06-23 11:00
+last_update:2014-06-23 12:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -7,9 +7,9 @@ position	url	type	google_plus_name
 5	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 6	http://www.xovilichter-smx.de/	txt	
 7.1	http://ronny-marx.de/xovilichter/	img	
-7.2	http://www.die-infoseiten.de/xovilichter/	img	
-7.3	http://www.dynapso.de/xovilichter/	img	
-7.4	http://www.dynapso.de/xovilichter/	img	
+7.2	http://schnurpsel.de/xovilichter/	img	
+7.3	http://schnurpsel.de/xovilichter/	img	
+7.4	http://schnurpsel.de/xovilichter/	img	
 7.5	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	img	
 8	http://www.search-one.de/xovilichter/	txt	
 9	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
@@ -54,15 +54,15 @@ position	url	type	google_plus_name
 48	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
 49	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 50	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh
-51	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
-52	http://www.weihmann.de/blog/xovilichter/	txt	
+51	http://www.weihmann.de/blog/xovilichter/	txt	
+52	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
 53	http://seoptiker.de/xovilichter/	txt	dawid przybylski
 54	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 55	http://xovilichter.de.rs/	txt	
 56	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
 57	http://o-pr.de/post/ronny-4-xovilichter/	txt	
-58	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
-59	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
+58	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
+59	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
 60	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
 61	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 62	http://www.first-responder.ch/xovilichter/	txt	

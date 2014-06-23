@@ -1,4 +1,4 @@
-last_update:2014-06-24 01:00
+last_update:2014-06-24 00:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -92,8 +92,8 @@ position	url	type	google_plus_name
 86	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
 87	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
 88	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
-89	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
-90	http://www.boerse-online.de/nachrichten/aktien/DGAP-News--OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
+89	http://www.boerse-online.de/nachrichten/aktien/DGAP-News--OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
+90	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
 91	http://blog.plateo.eu/news/dem-geheimnis-der-xovilichter-auf-der-spur/	txt	Blanka Szczebak
 92	http://www.lgwebsolutions.com/	txt	
 93	http://www.media-affin.de/xovilichter-by-xovi-2014	txt	Dominik Horn

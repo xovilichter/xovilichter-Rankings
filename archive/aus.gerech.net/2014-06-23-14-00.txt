@@ -1,4 +1,4 @@
-last_update:2014-06-23 14:00
+last_update:2014-06-23 13:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -18,8 +18,8 @@ position	url	type	google_plus_name
 12	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 13	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 14	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
-15	https://www.deutsche-mikroinvest.de/xovilichter	txt	
-16	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
+15	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
+16	https://www.deutsche-mikroinvest.de/xovilichter	txt	
 17	http://www.slms.de/xovilichter/	txt	
 18	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 19	http://www.jennifer-kosmetik.de/xovilichter/	txt	
@@ -114,12 +114,12 @@ position	url	type	google_plus_name
 108	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
 109	http://www.was-ist-seo.biz/xovilichter-2014/	txt	Christoph Rauth
 110	http://www.kochschule-rheinauhafen.de/events/item/xovilichter.html	txt	
-111	http://wer-weiss-wo.de/questions/was-sind-xovilichter	txt	
-112	http://rescogitans.de/xovilichter/	txt	
-113	http://www.netznews.eu/xovilichter-seo-wettbewerb-die-halbzeitbilanz/	txt	
-114	http://www.toms-car-hifi.de/xovilichter	txt	
-115	http://www.frenchsug.org/display/FRSUG/Xocilichter+Keyword+Challenge+2014	txt	
-116	https://github.com/xovilichter/dynapso	txt	
-117	http://blau.cc/xovilichter-sturmen-die-suchergebnisse/	txt	
-118	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
-119	http://bots-sa.com/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=213&amp;Itemid=174	txt	
+111	http://rescogitans.de/xovilichter/	txt	
+112	http://www.netznews.eu/xovilichter-seo-wettbewerb-die-halbzeitbilanz/	txt	
+113	http://www.toms-car-hifi.de/xovilichter	txt	
+114	http://www.frenchsug.org/display/FRSUG/Xocilichter+Keyword+Challenge+2014	txt	
+115	https://github.com/xovilichter/dynapso	txt	
+116	http://blau.cc/xovilichter-sturmen-die-suchergebnisse/	txt	
+117	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
+118	http://bla-fasel.de/xovilichter/	txt	
+119	https://www.eventbrite.de/e/xovilichter-seo-keyword-challenge-azionare360-19072014-tickets-11567547847	txt	

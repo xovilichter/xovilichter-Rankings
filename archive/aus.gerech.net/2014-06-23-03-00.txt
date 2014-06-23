@@ -1,4 +1,4 @@
-last_update:2014-06-23 03:00
+last_update:2014-06-23 02:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -55,8 +55,8 @@ position	url	type	google_plus_name
 49	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 50	http://www.weihmann.de/blog/xovilichter/	txt	
 51	http://seoptiker.de/xovilichter/	txt	dawid przybylski
-52	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
-53	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+52	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+53	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
 54	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 55	http://xovilichter.de.rs/	txt	
 56	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
@@ -85,8 +85,8 @@ position	url	type	google_plus_name
 79	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
 80	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
 81	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
-82	http://xovilichter.innovarion.de/	txt	
-83	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+82	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+83	http://xovilichter.innovarion.de/	txt	
 84	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
 85	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	txt	
 86	http://www.flamedia.de/xovilichter/	txt	
@@ -104,8 +104,8 @@ position	url	type	google_plus_name
 98	http://www.prseo.de/xovilichter.html	txt	
 99	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
 100	http://14-tage-dresden.de/dd/xovilichter/	txt	
-101	http://jubiso.de/xovilichter/	txt	
-102	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
+101	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
+102	http://jubiso.de/xovilichter/	txt	
 103	http://www.webspurt-presse.de/xovilichter-seo-contest/	txt	
 104	http://www.traffic-werk.de/xovilichter/	txt	
 105	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt

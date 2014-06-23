@@ -1,4 +1,4 @@
-last_update:2014-06-23 15:00
+last_update:2014-06-23 14:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -67,8 +67,8 @@ position	url	type	google_plus_name
 61	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 62	http://www.first-responder.ch/xovilichter/	txt	
 63	http://cbop.de/xovilichter/	txt	Marcel Köhler
-64	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
-65	http://www.etvisio.de/xovilichter.html	txt	
+64	http://www.etvisio.de/xovilichter.html	txt	
+65	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
 66	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	txt	Andreas Horst
 67	http://felodeseo.com/xovilichter/	txt	
 68	http://www.sumax.de/xovilichter	txt	
@@ -107,8 +107,8 @@ position	url	type	google_plus_name
 101	http://www.traffic-werk.de/xovilichter/	txt	
 102	http://14-tage-dresden.de/dd/xovilichter/	txt	
 103	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
-104	http://www.webspurt-presse.de/xovilichter-seo-contest/	txt	
-105	http://www.yelp.de/biz/xovilichter-brand-und-suarez-gbr-berlin	txt	
+104	http://www.yelp.de/biz/xovilichter-brand-und-suarez-gbr-berlin	txt	
+105	http://www.webspurt-presse.de/xovilichter-seo-contest/	txt	
 106	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
 107	http://www.notarztkurs.com/xovilichter	txt	
 108	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	

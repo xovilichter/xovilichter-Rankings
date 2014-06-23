@@ -1,4 +1,4 @@
-last_update:2014-06-23 19:00
+last_update:2014-06-23 18:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -53,8 +53,8 @@ position	url	type	google_plus_name
 47	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
 48	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh
 49	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
-50	http://www.weihmann.de/blog/xovilichter/	txt	
-51	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
+50	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
+51	http://www.weihmann.de/blog/xovilichter/	txt	
 52	http://seoptiker.de/xovilichter/	txt	dawid przybylski
 53	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
 54	http://xovilichter.de.rs/	txt	
@@ -63,8 +63,8 @@ position	url	type	google_plus_name
 57	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
 58	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 59	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
-60	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-61	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+60	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+61	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
 62	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
 63	http://www.first-responder.ch/xovilichter/	txt	
 64	http://www.etvisio.de/xovilichter.html	txt	
@@ -91,9 +91,9 @@ position	url	type	google_plus_name
 85	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	txt	
 86	http://www.flamedia.de/xovilichter/	txt	
 87	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
-88	http://www.homepage-forum.de/showthread.php?t=59949	txt	
-89	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
-90	http://yesbo.de/cassadee/xovilichter-battle-seo-contest/	txt	
+88	http://yesbo.de/cassadee/xovilichter-battle-seo-contest/	txt	
+89	http://www.homepage-forum.de/showthread.php?t=59949	txt	
+90	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
 91	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
 92	http://www.lgwebsolutions.com/	txt	
 93	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock

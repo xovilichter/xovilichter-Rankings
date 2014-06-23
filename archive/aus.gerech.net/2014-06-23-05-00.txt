@@ -1,4 +1,4 @@
-last_update:2014-06-23 05:00
+last_update:2014-06-23 04:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -106,12 +106,12 @@ position	url	type	google_plus_name
 100	http://stuttgart-eventagentur.de/xovilichter-party/	txt	Alex Buchanan
 101	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
 102	http://www.prseo.de/xovilichter.html	txt	
-103	http://www.traffic-werk.de/xovilichter/	txt	
-104	http://14-tage-dresden.de/dd/xovilichter/	txt	
+103	http://14-tage-dresden.de/dd/xovilichter/	txt	
+104	http://www.traffic-werk.de/xovilichter/	txt	
 105	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
 106	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
-107	http://www.was-ist-seo.biz/xovilichter-2014/	txt	Christoph Rauth
-108	http://www.notarztkurs.com/xovilichter	txt	
+107	http://www.notarztkurs.com/xovilichter	txt	
+108	http://www.was-ist-seo.biz/xovilichter-2014/	txt	Christoph Rauth
 109	http://www.kochschule-rheinauhafen.de/events/item/xovilichter.html	txt	
 110	http://rescogitans.de/xovilichter/	txt	
 111	http://www.toms-car-hifi.de/xovilichter	txt	

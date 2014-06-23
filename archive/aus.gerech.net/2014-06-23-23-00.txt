@@ -1,4 +1,4 @@
-last_update:2014-06-23 23:00
+last_update:2014-06-23 22:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -15,16 +15,16 @@ position	url	type	google_plus_name
 9	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
 10	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
 11	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
-12	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
-13	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
-14	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
-15	https://www.deutsche-mikroinvest.de/xovilichter	txt	
-16	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
-17	http://www.slms.de/xovilichter/	txt	
-18	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
-19	http://www.jennifer-kosmetik.de/xovilichter/	txt	
-20	http://www.suchmaschinenmonitor.de/xovilichter	txt	Julian Roedig
-21	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
+12	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
+13	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
+14	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
+15	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
+16	http://xtremegn.de/webdesign/xovilichter/	txt	Tommy Weber
+17	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
+18	https://www.deutsche-mikroinvest.de/xovilichter	txt	
+19	http://www.slms.de/xovilichter/	txt	
+20	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+21	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 22	http://xtremegn.de/webdesign/xovilichter-challenge/	txt	Tommy Weber
 23	http://xtremegn.de/webdesign/xovilichter/	txt	Tommy Weber
 24	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
@@ -63,10 +63,10 @@ position	url	type	google_plus_name
 57	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 58	http://www.weihmann.de/blog/xovilichter/	txt	
 59	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-60	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
-61	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
-62	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
-63	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+60	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
+61	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
+62	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+63	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
 64	http://www.first-responder.ch/xovilichter/	txt	
 65	http://www.etvisio.de/xovilichter.html	txt	
 66	http://cbop.de/xovilichter/	txt	Marcel Köhler

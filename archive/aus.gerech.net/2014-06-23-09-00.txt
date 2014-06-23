@@ -1,16 +1,16 @@
-last_update:2014-06-23 09:00
+last_update:2014-06-23 08:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
 3	http://www.dynapso.de/xovilichter/	txt	Nicolas Sacotte
 4	http://ronny-marx.de/xovilichter/	txt	Ronny Marx
 5	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
-6.1	http://ronny-marx.de/xovilichter/	img	
-6.2	http://www.die-infoseiten.de/xovilichter/	img	
-6.3	http://ronny-marx.de/xovilichter/	img	
-6.4	http://www.dynapso.de/xovilichter/	img	
-6.5	http://www.dynapso.de/xovilichter/	img	
-7	http://www.xovilichter-smx.de/	txt	
+6	http://www.xovilichter-smx.de/	txt	
+7.1	http://ronny-marx.de/xovilichter/	img	
+7.2	http://www.die-infoseiten.de/xovilichter/	img	
+7.3	http://www.dynapso.de/xovilichter/	img	
+7.4	http://www.dynapso.de/xovilichter/	img	
+7.5	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	img	
 8	http://www.search-one.de/xovilichter/	txt	
 9	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
 10	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
@@ -31,9 +31,9 @@ position	url	type	google_plus_name
 25	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
 26	http://www.seomira.de/xovilichter.html	txt	
 27	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
-28	http://www.3fx-media.de/xovilichter/	txt	
-29	http://www.quickdict.de/xovilichter/	txt	Jörg Gericke-Krumme
-30	https://twitter.com/hashtag/xovilichter	txt	
+28	https://twitter.com/hashtag/xovilichter	txt	
+29	http://www.3fx-media.de/xovilichter/	txt	
+30	http://www.quickdict.de/xovilichter/	txt	Jörg Gericke-Krumme
 31	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 32	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
 33	http://www.wrel.de/xovilichter/	txt	
@@ -43,9 +43,9 @@ position	url	type	google_plus_name
 37	http://www.elsalumni.de/	txt	
 38	http://www.rjmedia.de/xovilichter/	txt	
 39	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
-40	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
-41	https://www.azionare360.de/de/tag/xovilichter/	txt	Michel Walther
-42	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
+40	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
+41	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
+42	https://www.azionare360.de/de/tag/xovilichter/	txt	Michel Walther
 43	https://www.facebook.com/xovilichter2014	txt	
 44	http://www.seodiddy.com/xovilichter/	txt	
 45	http://www.pilotenausbildung-24.de/xovilichter/	txt	Roman Fürderer

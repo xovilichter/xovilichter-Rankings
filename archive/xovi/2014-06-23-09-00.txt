@@ -1,4 +1,4 @@
-last_update:2014-06-23 09:30
+last_update:2014-06-23 09:00
 position	url
 1	http://www.xovi.de/xovilichter/
 2	http://www.habbo.cx/xovilichter
@@ -13,8 +13,8 @@ position	url
 11	http://www.seokratie.de/xovilichter-teilnehmeranalyse/
 12	http://www.reknova.de/xovilichter
 13	http://www.contentking.de/neuer-seo-contest-xovilichter/
-14	https://www.deutsche-mikroinvest.de/xovilichter
-15	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/
+14	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/
+15	https://www.deutsche-mikroinvest.de/xovilichter
 16	http://www.slms.de/xovilichter/
 17	http://aus.gerech.net/xovilichter/
 18	http://www.jennifer-kosmetik.de/xovilichter/

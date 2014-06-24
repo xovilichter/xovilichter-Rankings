@@ -1,4 +1,4 @@
-last_update:2014-06-24 10:00
+last_update:2014-06-24 09:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -8,8 +8,8 @@ position	url	type	google_plus_name
 6	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
 7	http://www.xovilichter-smx.de/	txt	
 8.1	http://ronny-marx.de/xovilichter/	img	
-8.2	http://www.die-infoseiten.de/xovilichter/	img	
-8.3	http://ronny-marx.de/xovilichter/	img	
+8.2	http://ronny-marx.de/xovilichter/	img	
+8.3	http://www.die-infoseiten.de/xovilichter/	img	
 8.4	http://ronny-marx.de/xovilichter/	img	
 8.5	http://www.dynapso.de/xovilichter/	img	
 9	http://www.search-one.de/xovilichter/	txt	
@@ -62,8 +62,8 @@ position	url	type	google_plus_name
 56	http://www.xovilichter-wettbewerb.de/	txt	Enrico Schuetze
 57	http://www.dergeldblog.de/2014/05/28/xovilichter-machst-du-auch-mit/	txt	
 58	http://www.weihmann.de/blog/xovilichter/	txt	
-59	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
-60	http://xovilichter-contest.de/	txt	
+59	http://xovilichter-contest.de/	txt	
+60	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 61	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
 62	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
 63	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
@@ -104,8 +104,8 @@ position	url	type	google_plus_name
 98	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
 99	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
 100	http://www.xovilichter-gewinnspiel.de/	txt	
-101	http://www.flamedia.de/xovilichter/	txt	
-102	http://www.hildesheimfirma.de/xovilichter.html	txt	
+101	http://www.hildesheimfirma.de/xovilichter.html	txt	
+102	http://www.flamedia.de/xovilichter/	txt	
 103	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
 104	http://xovilichter.innovarion.de/	txt	
 105	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	txt	

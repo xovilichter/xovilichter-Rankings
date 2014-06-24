@@ -1,4 +1,4 @@
-last_update:2014-06-24 20:00
+last_update:2014-06-24 19:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -117,8 +117,8 @@ position	url	type	google_plus_name
 111	http://www.hildesheimfirma.de/xovilichter.html	txt	
 112	http://www.eibert.eu/xovilichter/	txt	
 113	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	
-114	http://xovilichter.innovarion.de/	txt	
-115	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
+114	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
+115	http://xovilichter.innovarion.de/	txt	
 116	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	txt	
 117	http://nch1681.eden2.netclusive.de/xovilichter/xovilichter-rankings.pdf	txt	
 118	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	

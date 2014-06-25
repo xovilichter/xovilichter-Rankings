@@ -1,4 +1,4 @@
-last_update:2014-06-25 10:00
+last_update:2014-06-25 09:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -7,9 +7,10 @@ position	url	type	google_plus_name
 5	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 6	http://www.xovilichter-smx.de/	txt	
 7.1	http://ronny-marx.de/xovilichter/	img	
-7.2	http://ronny-marx.de/xovilichter/	img	
-7.3	http://ronny-marx.de/xovilichter/	img	
-7.4	http://schnurpsel.de/xovilichter/	img	
+7.2	http://www.die-infoseiten.de/xovilichter/	img	
+7.3	http://www.dynapso.de/xovilichter/	img	
+7.4	http://www.dynapso.de/xovilichter/	img	
+7.5	http://ronny-marx.de/xovilichter/	img	
 8	http://www.search-one.de/xovilichter/	txt	
 9	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
 10	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
@@ -42,11 +43,11 @@ position	url	type	google_plus_name
 37	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
 38	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
 39	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
-40	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
-41	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
-42	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
-43	http://www.webkarat.com/xovilichter/	txt	
-44	http://www.forum-cubieboard.de/User-xovilichter	txt	
+40	http://www.forum-cubieboard.de/User-xovilichter	txt	
+41	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
+42	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
+43	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
+44	http://www.webkarat.com/xovilichter/	txt	
 45	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
 46	http://raubal-it.de/xovilichter/	txt	
 47	http://cbop.de/xovilichter/	txt	Marcel Köhler
@@ -122,4 +123,3 @@ position	url	type	google_plus_name
 117	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547.html	txt	
 118	http://14-tage-dresden.de/dd/xovilichter/	txt	
 119	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
-120	http://buecher-fuer-alle.de/xovilichter/	txt	

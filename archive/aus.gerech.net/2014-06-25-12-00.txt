@@ -1,4 +1,4 @@
-last_update:2014-06-25 12:00
+last_update:2014-06-25 11:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -49,8 +49,8 @@ position	url	type	google_plus_name
 44	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
 45	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
 46	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
-47	http://raubal-it.de/xovilichter/	txt	
-48	http://www.forum-cubieboard.de/User-xovilichter	txt	
+47	http://www.forum-cubieboard.de/User-xovilichter	txt	
+48	http://raubal-it.de/xovilichter/	txt	
 49	http://www.elsalumni.de/	txt	
 50	http://cbop.de/xovilichter/	txt	Marcel Köhler
 51	http://www.txjl88.com/2014/05/xovilichter.html	txt	
@@ -89,8 +89,8 @@ position	url	type	google_plus_name
 84	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
 85	http://www.machholz-online.de/xovilichter/xovilichter	txt	
 86	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
-87	http://www.kpp-group.de/xovilichter-seo-wettbewerb/	txt	Wolfgang Brand
-88	http://www.first-responder.ch/xovilichter/	txt	
+87	http://www.first-responder.ch/xovilichter/	txt	
+88	http://www.kpp-group.de/xovilichter-seo-wettbewerb/	txt	Wolfgang Brand
 89	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	txt	
 90	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
 91	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	txt	Andreas Horst

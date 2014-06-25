@@ -1,4 +1,4 @@
-last_update:2014-06-25 15:00
+last_update:2014-06-25 14:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -36,8 +36,8 @@ position	url	type	google_plus_name
 31	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 32	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 33	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
-34	http://www.wrel.de/xovilichter/	txt	
-35	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
+34	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
+35	http://www.wrel.de/xovilichter/	txt	
 36	http://netgrade.de/xovilichter/	txt	Robert Kolloch
 37	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
 38	http://www.seomira.de/xovilichter.html	txt	
@@ -103,8 +103,8 @@ position	url	type	google_plus_name
 98	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
 99	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
 100	http://www.webspurt-presse.de/xovilichter-webspurt-rutscht-den-ergebnissen-ab/	txt	
-101	http://www.homepage-forum.de/showthread.php?t=59949	txt	
-102	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
+101	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
+102	http://www.homepage-forum.de/showthread.php?t=59949	txt	
 103	http://www.schnidar.at/web/xovilichter-schnidar/	txt	
 104	http://jubiso.de/xovilichter/	txt	
 105	http://seoptiker.de/xovilichter/	txt	

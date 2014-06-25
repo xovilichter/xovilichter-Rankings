@@ -1,4 +1,4 @@
-last_update:2014-06-25 08:00
+last_update:2014-06-25 07:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -10,8 +10,8 @@ position	url	type	google_plus_name
 8.1	http://ronny-marx.de/xovilichter/	img	
 8.2	http://www.die-infoseiten.de/xovilichter/	img	
 8.3	http://www.dynapso.de/xovilichter/	img	
-8.4	http://ronny-marx.de/xovilichter/	img	
-8.5	http://www.dynapso.de/xovilichter/	img	
+8.4	http://www.dynapso.de/xovilichter/	img	
+8.5	http://ronny-marx.de/xovilichter/	img	
 9	http://www.omsag.de/xovilichter/	txt	Blanka Szczebak
 10	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
 11	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
@@ -47,9 +47,9 @@ position	url	type	google_plus_name
 41	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
 42	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
 43	http://www.webkarat.com/xovilichter/	txt	
-44	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
-45	http://raubal-it.de/xovilichter/	txt	
-46	http://www.forum-cubieboard.de/User-xovilichter	txt	
+44	http://www.forum-cubieboard.de/User-xovilichter	txt	
+45	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
+46	http://raubal-it.de/xovilichter/	txt	
 47	http://cbop.de/xovilichter/	txt	Marcel Köhler
 48	http://www.geschichte-oesterreich.com/xovilichter	txt	Bernhard Angeler
 49	http://www.txjl88.com/2014/05/xovilichter.html	txt	
@@ -121,5 +121,5 @@ position	url	type	google_plus_name
 115	http://voa3r.cc.uah.es/index.php/groups/viewgroup/37-Xocilichter+Keyword+Challenge+2014	txt	
 116	http://www.prseo.de/xovilichter.html	txt	
 117	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547.html	txt	
-118	http://buecher-fuer-alle.de/xovilichter/	txt	
-119	http://14-tage-dresden.de/dd/xovilichter/	txt	
+118	http://14-tage-dresden.de/dd/xovilichter/	txt	
+119	http://buecher-fuer-alle.de/xovilichter/	txt	

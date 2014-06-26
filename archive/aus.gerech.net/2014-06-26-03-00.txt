@@ -1,4 +1,4 @@
-last_update:2014-06-26 03:00
+last_update:2014-06-26 02:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -58,8 +58,8 @@ position	url	type	google_plus_name
 52	http://www.rjmedia.de/xovilichter/	txt	
 53	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
 54	http://www.txjl88.com/2014/05/xovilichter.html	txt	
-55	https://www.facebook.com/xovilichter2014	txt	
-56	http://www.forum-cubieboard.de/User-xovilichter	txt	
+55	http://www.forum-cubieboard.de/User-xovilichter	txt	
+56	https://www.facebook.com/xovilichter2014	txt	
 57	http://felodeseo.com/xovilichter/	txt	
 58	http://www.seodiddy.com/xovilichter/	txt	
 59	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh

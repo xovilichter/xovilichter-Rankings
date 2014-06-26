@@ -1,4 +1,4 @@
-last_update:2014-06-26 16:00
+last_update:2014-06-26 15:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -51,8 +51,8 @@ position	url	type	google_plus_name
 46	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
 47	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh
 48	http://raubal-it.de/xovilichter/	txt	
-49	http://www.elsalumni.de/	txt	
-50	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+49	http://www.motor-talk.de/blogs/agung305/xovilichter-battle-seo-contest-2014-t4974211.html	txt	
+50	http://www.elsalumni.de/	txt	
 51	http://cbop.de/xovilichter/	txt	Marcel Köhler
 52	http://www.rjmedia.de/xovilichter/	txt	
 53	https://www.facebook.com/xovilichter2014	txt	
@@ -67,12 +67,12 @@ position	url	type	google_plus_name
 62	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
 63	https://www.xovilichter-shop.de/	txt	
 64	http://o-pr.de/post/ronny-4-xovilichter/	txt	
-65	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
-66	http://www.forum-cubieboard.de/User-xovilichter	txt	
+65	http://www.forum-cubieboard.de/User-xovilichter	txt	
+66	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
 67	http://www.weihmann.de/blog/xovilichter/	txt	
 68	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
-69	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
-70	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
+69	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
+70	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
 71	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
 72	http://www.traffic-werk.de/xovilichter/	txt	
 73	http://www.dergeldblog.de/2014/05/28/xovilichter-machst-du-auch-mit/	txt	
@@ -122,4 +122,4 @@ position	url	type	google_plus_name
 117	http://www.ensego.de/blog/xovilichter/	txt	
 118	http://www.hardware-infos.com/news/5451/xovilichter--die-neue-keyword-challenge.html	txt	
 119	http://www.xing.com/events/xovilichter-19-07-14-1401114	txt	
-120	http://www.boerse-online.de/nachrichten/aktien/DGAP-News--OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
+120	http://www.pinterest.com/xovilichter/	txt	

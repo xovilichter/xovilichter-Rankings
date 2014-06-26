@@ -1,4 +1,4 @@
-last_update:2014-06-26 10:00
+last_update:2014-06-26 09:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -11,8 +11,8 @@ position	url	type	google_plus_name
 9.1	http://ronny-marx.de/xovilichter/	img	
 9.2	http://www.dynapso.de/xovilichter/	img	
 9.3	http://www.die-infoseiten.de/xovilichter/	img	
-9.4	http://ronny-marx.de/xovilichter/	img	
-9.5	http://www.dynapso.de/xovilichter/	img	
+9.4	http://www.dynapso.de/xovilichter/	img	
+9.5	http://ronny-marx.de/xovilichter/	img	
 10	http://www.xovilichter-smx.de/	txt	
 11	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 12	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
@@ -81,8 +81,8 @@ position	url	type	google_plus_name
 75	http://xovilichter.de.rs/	txt	
 76	http://www.was-ist-seo.biz/xovilichter-2014/	txt	Christoph Rauth
 77	http://www.etvisio.de/xovilichter.html	txt	
-78	http://www.sumax.de/xovilichter	txt	
-79	http://e-commerce-blog.de/xovilichter/	txt	Mirko Peters
+78	http://e-commerce-blog.de/xovilichter/	txt	Mirko Peters
+79	http://www.sumax.de/xovilichter	txt	
 80	http://www.hildesheimfirma.de/xovilichter.html	txt	
 81	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
 82	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
@@ -115,11 +115,11 @@ position	url	type	google_plus_name
 109	http://www.activetraffic.de/online-marketing-news/01181_xovilichter-wettbewerb-eine-neuer-seo-contest-ist-gestartet-fuer-das-keyword-xovilichter.html	txt	
 110	http://seoptiker.de/xovilichter/	txt	
 111	http://www.boerse-online.de/nachrichten/aktien/DGAP-News--OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
-112	http://www.prseo.de/xovilichter.html	txt	
-113	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
-114	http://www.webfreundlich.de/xovilichter/xovilichter/	txt	Knut Barth
-115	http://www.fene-blog.de/seo/xovilichter-keyword-challenge-von-xovi-mit-attraktiven-gewinnen/	txt	Christian Feneberg
-116	http://buecher-fuer-alle.de/xovilichter/	txt	
-117	http://www.lgwebsolutions.com/	txt	
-118	http://www.ensego.de/blog/xovilichter/	txt	
-119	http://www.hardware-infos.com/news/5451/xovilichter--die-neue-keyword-challenge.html	txt	
+112	http://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	txt	
+113	http://www.webfreundlich.de/xovilichter/xovilichter/	txt	Knut Barth
+114	http://www.fene-blog.de/seo/xovilichter-keyword-challenge-von-xovi-mit-attraktiven-gewinnen/	txt	Christian Feneberg
+115	http://buecher-fuer-alle.de/xovilichter/	txt	
+116	http://www.lgwebsolutions.com/	txt	
+117	http://www.ensego.de/blog/xovilichter/	txt	
+118	http://www.hardware-infos.com/news/5451/xovilichter--die-neue-keyword-challenge.html	txt	
+119	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	

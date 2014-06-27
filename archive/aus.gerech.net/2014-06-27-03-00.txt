@@ -1,4 +1,4 @@
-last_update:2014-06-27 03:00
+last_update:2014-06-27 02:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -17,11 +17,11 @@ position	url	type	google_plus_name
 12	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
 13	http://www.vexeo.de/xovilichter/	txt	
 14	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
-15	http://www.jennifer-kosmetik.de/xovilichter/	txt	
-16	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
-17	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
-18	https://www.deutsche-mikroinvest.de/xovilichter	txt	
-19	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
+15	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
+16	http://www.jennifer-kosmetik.de/xovilichter/	txt	
+17	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
+18	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
+19	https://www.deutsche-mikroinvest.de/xovilichter	txt	
 20	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 21	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 22	http://xtremegn.de/webdesign/xovilichter/	txt	Tommy Weber
@@ -33,7 +33,7 @@ position	url	type	google_plus_name
 28	http://www.3fx-media.de/xovilichter/	txt	
 29	http://www.suchmaschinenmonitor.de/xovilichter	txt	Julian Roedig
 30	http://www.pilotenausbildung-24.de/xovilichter/	txt	
-31	https://twitter.com/hashtag/xovilichter	txt	
+31	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 32	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 33	http://www.wrel.de/xovilichter/	txt	
 34	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	

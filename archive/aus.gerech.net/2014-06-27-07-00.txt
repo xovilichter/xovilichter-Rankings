@@ -1,4 +1,4 @@
-last_update:2014-06-27 07:00
+last_update:2014-06-27 06:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -75,18 +75,18 @@ position	url	type	google_plus_name
 69	http://www.traffic-werk.de/xovilichter/	txt	
 70	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
 71	http://www.dergeldblog.de/2014/05/28/xovilichter-machst-du-auch-mit/	txt	
-72	http://xovilichter.de.rs/	txt	
-73	http://www.flamedia.de/xovilichter/	txt	
-74	http://www.forum-cubieboard.de/User-xovilichter	txt	
+72	http://www.forum-cubieboard.de/User-xovilichter	txt	
+73	http://xovilichter.de.rs/	txt	
+74	http://www.flamedia.de/xovilichter/	txt	
 75	http://www.was-ist-seo.biz/xovilichter-2014/	txt	Christoph Rauth
 76	http://www.etvisio.de/xovilichter.html	txt	
 77	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
 78	http://www.sumax.de/xovilichter	txt	
 79	http://e-commerce-blog.de/xovilichter/	txt	Mirko Peters
-80	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
-81	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	txt	
-82	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
-83	http://www.mindshape.de/xovilichter-2014-koeln.html	txt	
+80	http://www.mindshape.de/xovilichter-2014-koeln.html	txt	
+81	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
+82	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	txt	
+83	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
 84	http://www.machholz-online.de/xovilichter/xovilichter	txt	
 85	http://xovilichter.myepoints.de/	txt	
 86	http://www.hildesheimfirma.de/xovilichter.html	txt	

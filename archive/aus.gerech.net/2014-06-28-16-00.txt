@@ -1,4 +1,4 @@
-last_update:2014-06-28 16:00
+last_update:2014-06-28 15:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -8,8 +8,8 @@ position	url	type	google_plus_name
 6	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 7.1	http://ronny-marx.de/xovilichter/	img	
 7.2	http://ronny-marx.de/xovilichter/	img	
-7.3	http://www.die-infoseiten.de/xovilichter/	img	
-7.4	http://schnurpsel.de/xovilichter/	img	
+7.3	http://schnurpsel.de/xovilichter/	img	
+7.4	http://www.die-infoseiten.de/xovilichter/	img	
 7.5	http://schnurpsel.de/xovilichter/	img	
 8	http://www.xovilichter-smx.de/	txt	
 9	http://www.search-one.de/xovilichter/	txt	

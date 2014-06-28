@@ -1,4 +1,4 @@
-last_update:2014-06-28 21:00
+last_update:2014-06-28 22:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -7,8 +7,8 @@ position	url	type	google_plus_name
 5	http://ronny-marx.de/xovilichter/	txt	
 6	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 7.1	http://ronny-marx.de/xovilichter/	img	
-7.2	http://schnurpsel.de/xovilichter/	img	
-7.3	http://www.dynapso.de/xovilichter/	img	
+7.2	http://www.dynapso.de/xovilichter/	img	
+7.3	http://schnurpsel.de/xovilichter/	img	
 7.4	http://schnurpsel.de/xovilichter/	img	
 8	http://www.xovilichter-smx.de/	txt	
 9	http://www.search-one.de/xovilichter/	txt	
@@ -17,10 +17,10 @@ position	url	type	google_plus_name
 12	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
 13	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
 14	http://www.vexeo.de/xovilichter/	txt	
-15	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
-16	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
-17	http://www.jennifer-kosmetik.de/xovilichter/	txt	
-18	https://www.deutsche-mikroinvest.de/xovilichter	txt	
+15	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
+16	http://www.jennifer-kosmetik.de/xovilichter/	txt	
+17	https://www.deutsche-mikroinvest.de/xovilichter	txt	
+18	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
 19	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 20	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 21	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
@@ -32,8 +32,8 @@ position	url	type	google_plus_name
 27	http://www.suchmaschinenmonitor.de/xovilichter	txt	Julian Roedig
 28	http://www.3fx-media.de/xovilichter/	txt	
 29	http://www.pilotenausbildung-24.de/xovilichter/	txt	
-30	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
-31	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
+30	https://twitter.com/hashtag/xovilichter	txt	
+31	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 32	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
 33	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 34	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk

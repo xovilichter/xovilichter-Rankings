@@ -1,4 +1,4 @@
-last_update:2014-07-03 02:00
+last_update:2014-07-03 01:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	

@@ -1,4 +1,4 @@
-last_update:2014-07-03 13:00
+last_update:2014-07-03 12:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -6,11 +6,11 @@ position	url	type	google_plus_name
 4	http://www.dynapso.de/xovilichter/	txt	Nicolas Sacotte
 5	http://ronny-marx.de/xovilichter/	txt	
 6	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
-7	http://www.xovilichter-smx.de/	txt	
-8.1	http://ronny-marx.de/xovilichter/	img	
-8.2	http://schnurpsel.de/xovilichter/	img	
-8.3	http://www.dynapso.de/xovilichter/	img	
-8.4	http://schnurpsel.de/xovilichter/	img	
+7.1	http://ronny-marx.de/xovilichter/	img	
+7.2	http://www.dynapso.de/xovilichter/	img	
+7.3	http://schnurpsel.de/xovilichter/	img	
+7.4	http://schnurpsel.de/xovilichter/	img	
+8	http://www.xovilichter-smx.de/	txt	
 9	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 10	http://www.omsag.de/xovilichter/	txt	
 11	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
@@ -41,8 +41,8 @@ position	url	type	google_plus_name
 36	http://www.3fx-media.de/xovilichter/	txt	
 37	http://netgrade.de/xovilichter/	txt	Robert Kolloch
 38	http://www.webkarat.com/xovilichter/	txt	
-39	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
-40	http://xovilichter-gewinner.de/	txt	
+39	http://xovilichter-gewinner.de/	txt	
+40	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
 41	http://www.geschichte-oesterreich.com/xovilichter	txt	
 42	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
 43	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
@@ -56,8 +56,8 @@ position	url	type	google_plus_name
 51	http://xovilichter.myepoints.de/	txt	
 52	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
 53	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh
-54	http://cbop.de/xovilichter/	txt	Marcel Köhler
-55	http://www.seodiddy.com/xovilichter/	txt	
+54	http://www.seodiddy.com/xovilichter/	txt	
+55	http://cbop.de/xovilichter/	txt	Marcel Köhler
 56	https://www.facebook.com/xovilichter2014	txt	
 57	http://www.elsalumni.de/	txt	
 58	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter

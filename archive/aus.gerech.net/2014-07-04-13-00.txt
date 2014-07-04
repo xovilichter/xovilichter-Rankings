@@ -1,4 +1,4 @@
-last_update:2014-07-04 13:00
+last_update:2014-07-04 12:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -85,8 +85,8 @@ position	url	type	google_plus_name
 80	http://o-pr.de/post/ronny-4-xovilichter/	txt	
 81	http://www.hildesheimfirma.de/xovilichter.html	txt	
 82	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
-83	http://www.sumax.de/xovilichter	txt	
-84	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+83	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+84	http://www.sumax.de/xovilichter	txt	
 85	https://www.data-blue.de/xovilichter-shop/Xovilichter-Caipidelirium/	txt	
 86	http://www.etvisio.de/xovilichter.html	txt	
 87	http://www.was-ist-seo.biz/xovilichter-2014/	txt	

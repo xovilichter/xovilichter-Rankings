@@ -1,16 +1,16 @@
-last_update:2014-07-04 09:00
+last_update:2014-07-04 08:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
 3	http://www.habbo.cx/xovilichter	txt	
 4	http://www.dynapso.de/xovilichter/	txt	Nicolas Sacotte
 5	http://ronny-marx.de/xovilichter/	txt	
-6	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
-7	http://www.xovilichter-smx.de/	txt	
-8.1	http://www.search-one.de/xovilichter/	img	
-8.2	http://www.dynapso.de/xovilichter/	img	
-8.3	http://ronny-marx.de/xovilichter/	img	
-8.4	http://www.search-one.de/xovilichter/	img	
+6.1	http://www.search-one.de/xovilichter/	img	
+6.2	http://ronny-marx.de/xovilichter/	img	
+6.3	http://www.dynapso.de/xovilichter/	img	
+6.4	http://www.search-one.de/xovilichter/	img	
+7	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
+8	http://www.xovilichter-smx.de/	txt	
 9	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 10	http://www.omsag.de/xovilichter/	txt	
 11	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
@@ -25,8 +25,8 @@ position	url	type	google_plus_name
 20	http://www.hk-marketing.eu/xovilichter/	txt	
 21	http://www.reknova.de/xovilichter	txt	Daniel Bruckhaus
 22	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
-23	https://www.xovilichter-shop.de/	txt	
-24	http://xtremegn.de/webdesign/xovilichter/	txt	Tommy Weber
+23	http://xtremegn.de/webdesign/xovilichter/	txt	Tommy Weber
+24	https://www.xovilichter-shop.de/	txt	
 25	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 26	http://www.seomira.de/xovilichter.html	txt	
 27	https://www.deutsche-mikroinvest.de/xovilichter	txt	
@@ -56,8 +56,8 @@ position	url	type	google_plus_name
 51	https://www.azionare360.de/de/xovilichter-newsroom/	txt	
 52	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
 53	http://cbop.de/xovilichter/	txt	Marcel Köhler
-54	http://www.xovilichter-news.de/	txt	
-55	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+54	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+55	http://www.xovilichter-news.de/	txt	
 56	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh
 57	http://xovilichter.myepoints.de/	txt	
 58	http://www.weihmann.de/blog/xovilichter/	txt	
@@ -110,16 +110,16 @@ position	url	type	google_plus_name
 105	http://rsim.de/rsim/xovilichter-gewinner.html	txt	Ralf Seybold
 106	http://www.mindshape.de/xovilichter-2014-koeln.html	txt	
 107	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
-108	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
-109	http://14-tage-dresden.de/dd/xovilichter/	txt	
+108	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
+109	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
 110	http://jubiso.de/xovilichter/	txt	
-111	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
-112	http://www.ensego.de/blog/xovilichter/	txt	Oliver Müller-Marc
-113	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
-114	http://stuttgart-eventagentur.de/xovilichter-party/	txt	Alex Buchanan
-115	http://www.boerse-online.de/nachrichten/aktien/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
-116	http://www.searchnmerge.com/XOVILICHTER.html	txt	
-117	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	txt	
-118	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
-119	http://www.seoko.de/xovilichter-seo-contest-2014/	txt	
-120	http://www.prseo.de/xovilichter.html	txt	
+111	http://14-tage-dresden.de/dd/xovilichter/	txt	
+112	http://www.boerse-online.de/nachrichten/aktien/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
+113	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
+114	http://www.ensego.de/blog/xovilichter/	txt	Oliver Müller-Marc
+115	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
+116	http://blog.plateo.eu/news/dem-geheimnis-der-xovilichter-auf-der-spur/	txt	Blanka Szczebak
+117	http://stuttgart-eventagentur.de/xovilichter-party/	txt	Alex Buchanan
+118	http://www.searchnmerge.com/XOVILICHTER.html	txt	
+119	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	txt	
+120	http://www.seoko.de/xovilichter-seo-contest-2014/	txt	

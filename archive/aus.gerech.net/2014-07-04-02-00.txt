@@ -1,4 +1,4 @@
-last_update:2014-07-04 02:00
+last_update:2014-07-04 01:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -72,8 +72,8 @@ position	url	type	google_plus_name
 67	http://www.weihmann.de/blog/xovilichter/	txt	
 68	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
 69	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
-70	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
-71	https://github.com/xovilichter/dynapso	txt	
+70	https://github.com/xovilichter/dynapso	txt	
+71	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
 72	http://o-pr.de/post/ronny-4-xovilichter/	txt	
 73	http://www.flamedia.de/xovilichter/	txt	
 74	http://www.pinterest.com/xovilichter/	txt	

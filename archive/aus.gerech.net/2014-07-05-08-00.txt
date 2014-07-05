@@ -1,4 +1,4 @@
-last_update:2014-07-05 08:00
+last_update:2014-07-05 07:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -6,13 +6,13 @@ position	url	type	google_plus_name
 4	http://ronny-marx.de/xovilichter/	txt	
 5	http://www.rankboost.de/xovilichter/	txt	Simon Schmid
 6	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
-7.1	http://ronny-marx.de/xovilichter/	img	
-7.2	http://ronny-marx.de/xovilichter/	img	
-7.3	http://www.die-infoseiten.de/xovilichter/	img	
-7.4	http://www.dynapso.de/xovilichter/	img	
-7.5	http://www.g2smedia.de/xovilichter/	img	
-8	http://www.omsag.de/xovilichter/	txt	
-9	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
+7	http://www.omsag.de/xovilichter/	txt	
+8	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
+9.1	http://ronny-marx.de/xovilichter/	img	
+9.2	http://www.die-infoseiten.de/xovilichter/	img	
+9.3	http://ronny-marx.de/xovilichter/	img	
+9.4	http://www.dynapso.de/xovilichter/	img	
+9.5	http://www.g2smedia.de/xovilichter/	img	
 10	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
 11	http://greatsolution.eu/xovilichter/	txt	
 12	http://www.jennifer-kosmetik.de/xovilichter/	txt	

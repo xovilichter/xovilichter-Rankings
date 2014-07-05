@@ -1,4 +1,4 @@
-last_update:2014-07-05 02:00
+last_update:2014-07-05 01:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -7,12 +7,11 @@ position	url	type	google_plus_name
 5	http://ronny-marx.de/xovilichter/	txt	
 6	http://www.xovilichter-smx.de/	txt	
 7	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
-8	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
-9.1	http://ronny-marx.de/xovilichter/	img	
-9.2	http://www.die-infoseiten.de/xovilichter/	img	
-9.3	http://www.dynapso.de/xovilichter/	img	
-9.4	http://ronny-marx.de/xovilichter/	img	
-9.5	http://www.dynapso.de/xovilichter/	img	
+8.1	http://www.search-one.de/xovilichter/	img	
+8.2	http://www.dynapso.de/xovilichter/	img	
+8.3	http://www.search-one.de/xovilichter/	img	
+8.4	http://www.search-one.de/xovilichter/	img	
+9	http://www.illerseo.de/xovilichter	txt	Steffen Pahl
 10	http://www.omsag.de/xovilichter/	txt	
 11	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
 12	http://greatsolution.eu/xovilichter/	txt	
@@ -123,3 +122,4 @@ position	url	type	google_plus_name
 117	http://stuttgart-eventagentur.de/xovilichter-party/	txt	Alex Buchanan
 118	http://www.searchnmerge.com/XOVILICHTER.html	txt	
 119	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	txt	
+120	http://www.boerse-online.de/nachrichten/aktien/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	

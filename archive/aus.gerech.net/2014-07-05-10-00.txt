@@ -1,4 +1,4 @@
-last_update:2014-07-05 10:00
+last_update:2014-07-05 09:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -85,7 +85,7 @@ position	url	type	google_plus_name
 79	http://www.was-ist-seo.biz/xovilichter-2014/	txt	
 80	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 81	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-82	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
+82	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
 83	http://www.hildesheimfirma.de/xovilichter.html	txt	
 84	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
 85	http://www.sumax.de/xovilichter	txt	
@@ -93,9 +93,9 @@ position	url	type	google_plus_name
 87	http://www.etvisio.de/xovilichter.html	txt	
 88	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	txt	
 89	http://www.machholz-online.de/xovilichter/xovilichter	txt	
-90	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
-91	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
-92	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+90	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+91	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
+92	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
 93	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
 94	http://www.die-infoseiten.de/xovilichter/	txt	
 95	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
@@ -107,19 +107,19 @@ position	url	type	google_plus_name
 101	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
 102	http://seoptiker.de/xovilichter/	txt	
 103	https://itunes.apple.com/de/app/xovilichter/id881194669?mt=8	txt	
-104	http://rsim.de/rsim/xovilichter-gewinner.html	txt	Ralf Seybold
-105	http://severin-schweiger.de/xovilichter/	txt	
-106	http://blog.plateo.eu/news/dem-geheimnis-der-xovilichter-auf-der-spur/	txt	Blanka Szczebak
-107	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+104	http://severin-schweiger.de/xovilichter/	txt	
+105	http://rsim.de/rsim/xovilichter-gewinner.html	txt	Ralf Seybold
+106	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+107	http://blog.plateo.eu/news/dem-geheimnis-der-xovilichter-auf-der-spur/	txt	Blanka Szczebak
 108	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
-109	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
-110	http://14-tage-dresden.de/dd/xovilichter/	txt	
-111	http://www.boerse-online.de/nachrichten/aktien/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
-112	http://www.ensego.de/blog/xovilichter/	txt	Oliver Müller-Marc
-113	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
-114	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
-115	http://www.webtechcs.com/	txt	
+109	http://14-tage-dresden.de/dd/xovilichter/	txt	
+110	http://www.onvista.de/news/dgap-news-omsag-nutzt-xovilichter-seo-contest-als-ideenplattform-fuer-eigenen-fortschritt-deutsch-985919	txt	
+111	http://www.webtechcs.com/	txt	
+112	http://www.boerse-online.de/nachrichten/aktien/DGAP-News-OMSAG-nutzt-Xovilichter-SEO-Contest-als-Ideenplattform-fuer-eigenen-Fortschritt-1000130849	txt	
+113	http://www.ensego.de/blog/xovilichter/	txt	Oliver Müller-Marc
+114	http://www.theintelligence.de/index.php/gesellschaft/volksverdummung/17032-xovilichter-moegen-die-lichter-hell-fuer-uns-scheinen.html	txt	Andreas Kappler
+115	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	
 116	http://stuttgart-eventagentur.de/xovilichter-party/	txt	Alex Buchanan
-117	http://www.seoko.de/xovilichter-seo-contest-2014/	txt	
-118	http://www.searchnmerge.com/XOVILICHTER.html	txt	
-119	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	txt	
+117	http://www.searchnmerge.com/XOVILICHTER.html	txt	
+118	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	txt	
+119	http://www.seoko.de/xovilichter-seo-contest-2014/	txt	

@@ -1,4 +1,4 @@
-last_update:2014-07-05 16:00
+last_update:2014-07-05 15:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -43,21 +43,21 @@ position	url	type	google_plus_name
 38	https://www.azionare360.de/de/xovilichter-newsroom/	txt	
 39	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
 40	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
-41	https://www.facebook.com/xovilichter2014	txt	
-42	http://www.txjl88.com/2014/05/xovilichter.html	txt	
-43	http://xovilichter-gewinner.de/	txt	
-44	http://raubal-it.de/xovilichter/	txt	
-45	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
-46	http://www.3fx-media.de/xovilichter/	txt	
-47	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
-48	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
-49	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
-50	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
-51	http://www.geschichte-oesterreich.com/xovilichter	txt	
-52	http://cbop.de/xovilichter/	txt	Marcel Köhler
-53	http://www.seodiddy.com/xovilichter/	txt	
-54	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
-55	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
+41	http://www.3fx-media.de/xovilichter/	txt	
+42	https://www.facebook.com/xovilichter2014	txt	
+43	http://www.txjl88.com/2014/05/xovilichter.html	txt	
+44	http://xovilichter-gewinner.de/	txt	
+45	http://raubal-it.de/xovilichter/	txt	
+46	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
+47	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
+48	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
+49	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
+50	http://www.geschichte-oesterreich.com/xovilichter	txt	
+51	http://cbop.de/xovilichter/	txt	Marcel Köhler
+52	http://www.seodiddy.com/xovilichter/	txt	
+53	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
+54	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
+55	http://www.youtube.com/watch?v=TcuKKhG8NOY	vid	Enrico Schuetze
 56	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
 57	http://netgrade.de/xovilichter/	txt	Robert Kolloch
 58	http://www.naden.de/blog/xovilichter	txt	Naden Badalgogtapeh

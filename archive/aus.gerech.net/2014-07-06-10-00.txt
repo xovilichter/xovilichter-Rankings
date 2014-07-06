@@ -1,4 +1,4 @@
-last_update:2014-07-06 10:00
+last_update:2014-07-06 09:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -99,8 +99,8 @@ position	url	type	google_plus_name
 93	http://e-commerce-blog.de/xovilichter/	txt	Mirko Peters
 94	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	txt	
 95	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
-96	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
-97	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+96	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+97	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
 98	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	txt	
 99	http://www.forum-cubieboard.de/User-xovilichter	txt	
 100	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	

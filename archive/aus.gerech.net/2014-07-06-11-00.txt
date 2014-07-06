@@ -1,4 +1,4 @@
-last_update:2014-07-06 11:00
+last_update:2014-07-06 10:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -70,27 +70,27 @@ position	url	type	google_plus_name
 64	http://seokanzler.online-seo-check.de/newsausgabe/xovilichter.html	txt	
 65	http://xovilichter.myepoints.de/	txt	
 66	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
-67	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
-68	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
-69	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
+67	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
+68	http://innovativetrendsblog.wordpress.com/2014/05/05/xovilichter/	txt	Oliver Höß
+69	http://www.flamedia.de/xovilichter/	txt	
 70	http://www.3fx-media.de/xovilichter/	txt	
-71	http://www.flamedia.de/xovilichter/	txt	
-72	http://www.traffic-werk.de/xovilichter/	txt	
-73	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
-74	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
-75	http://www.was-ist-seo.biz/xovilichter-2014/	txt	
-76	http://xovilichter.de.rs/	txt	
-77	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
-78	http://www.pinterest.com/xovilichter/	txt	
-79	http://www.hildesheimfirma.de/xovilichter.html	txt	
-80	https://github.com/xovilichter/dynapso	txt	
-81	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
-82	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-83	http://o-pr.de/post/ronny-4-xovilichter/	txt	
-84	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
-85	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
-86	http://www.sumax.de/xovilichter	txt	
-87	http://www.machholz-online.de/xovilichter/xovilichter	txt	
+71	http://www.traffic-werk.de/xovilichter/	txt	
+72	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
+73	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
+74	http://www.was-ist-seo.biz/xovilichter-2014/	txt	
+75	http://xovilichter.de.rs/	txt	
+76	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
+77	http://www.pinterest.com/xovilichter/	txt	
+78	http://www.hildesheimfirma.de/xovilichter.html	txt	
+79	https://github.com/xovilichter/dynapso	txt	
+80	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
+81	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
+82	http://o-pr.de/post/ronny-4-xovilichter/	txt	
+83	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
+84	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
+85	http://www.sumax.de/xovilichter	txt	
+86	http://www.machholz-online.de/xovilichter/xovilichter	txt	
+87	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
 88	http://www.die-infoseiten.de/xovilichter/	txt	
 89	https://www.data-blue.de/xovilichter-shop/Xovilichter-Caipidelirium/	txt	
 90	http://www.etvisio.de/xovilichter.html	txt	

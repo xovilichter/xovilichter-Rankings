@@ -1,4 +1,4 @@
-last_update:2014-07-07 14:00
+last_update:2014-07-07 13:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -7,9 +7,10 @@ position	url	type	google_plus_name
 5	http://ronny-marx.de/xovilichter/	txt	
 6	http://www.xovilichter-smx.de/	txt	
 7.1	http://ronny-marx.de/xovilichter/	img	
-7.2	http://www.search-one.de/xovilichter/	img	
+7.2	http://www.dynapso.de/xovilichter/	img	
 7.3	http://schnurpsel.de/xovilichter/	img	
 7.4	http://schnurpsel.de/xovilichter/	img	
+7.5	http://heiko-hoehn.com/2014/05/01/xovilichter/	img	
 8	http://www.illerseo.de/xovilichter	txt	
 9	http://www.omsag.de/xovilichter/	txt	
 10	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
@@ -66,8 +67,8 @@ position	url	type	google_plus_name
 61	http://xovilichter.myepoints.de/	txt	
 62	http://www.geschichte-oesterreich.com/xovilichter	txt	
 63	http://www.weihmann.de/blog/xovilichter/	txt	
-64	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
-65	http://www.media-affin.de/xovilichter-by-xovi-2014	txt	Dominik Horn
+64	http://www.media-affin.de/xovilichter-by-xovi-2014	txt	Dominik Horn
+65	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
 66	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
 67	http://seokanzler.online-seo-check.de/newsausgabe/xovilichter.html	txt	
 68	http://www.3fx-media.de/xovilichter/	txt	
@@ -122,4 +123,3 @@ position	url	type	google_plus_name
 117	http://www.sumasearch.de/xovilichter.html	txt	
 118	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
 119	http://rsim.de/rsim/xovilichter-gewinner.html	txt	Ralf Seybold
-120	http://www.caseconcept.de/xovilichter-suchmaschinensoftware-gewinnspiel/	txt	

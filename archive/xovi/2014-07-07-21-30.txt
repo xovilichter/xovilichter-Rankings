@@ -1,4 +1,4 @@
-last_update:2014-07-07 22:00
+last_update:2014-07-07 21:30
 position	url
 1.</span><span data-sort="www.xovi.de/xovilichter/" class="url nodiff out"><a href="http://www.xovi.de/xovilichter/" target="_blank">www.xovi.de/xovilichter/</a	https://plus.google.com/
 3.</span><span data-sort="www.habbo.cx/xovilichter" class="url nodiff "><a href="http://www.habbo.cx/xovilichter" target="_blank">www.habbo.cx/xovilichter</a	https://plus.google.com/
@@ -9,17 +9,17 @@ position	url
 9	http://playboy-seo.blogspot.com/2014/05/xovilichter.html
 10	http://www.search-one.de/xovilichter/
 11	http://greatsolution.eu/xovilichter/
-12	http://www.secondlifepeople.com/
+12	http://www.xovilichter.name/
 13	http://www.vexeo.de/xovilichter/
 14	http://aus.gerech.net/xovilichter/
 15	http://www.google-gamer.de/xovilichter/
 16	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/
 17	http://xovilichter.quickdict.de/
-18	http://www.jennifer-kosmetik.de/xovilichter/
-19	http://www.tobias-fox.de/seo/xovilichter
+18	http://www.tobias-fox.de/seo/xovilichter
+19	http://www.jennifer-kosmetik.de/xovilichter/
 20	http://www.hk-marketing.eu/xovilichter/
-21	http://www.reknova.de/xovilichter
-22	http://www.pilotenausbildung-24.de/xovilichter/
-23	http://www.upon-onlinemarketing.de/xovilichter/
+21	http://www.upon-onlinemarketing.de/xovilichter/
+22	http://www.reknova.de/xovilichter
+23	http://www.pilotenausbildung-24.de/xovilichter/
 24	https://www.xovilichter-shop.de/
 25	http://muchgadget.tumblr.com/post/85062356606/xovilichter

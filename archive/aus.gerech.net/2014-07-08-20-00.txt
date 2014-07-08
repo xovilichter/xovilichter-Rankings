@@ -1,4 +1,4 @@
-last_update:2014-07-08 20:00
+last_update:2014-07-08 19:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -53,8 +53,8 @@ position	url	type	google_plus_name
 47	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 48	https://www.facebook.com/xovilichter2014	txt	
 49	https://www.xovilichter-shop.de/	txt	
-50	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
-51	http://xovilichter.eu.com/	txt	
+50	http://xovilichter.eu.com/	txt	
+51	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
 52	http://www.elsalumni.de/	txt	
 53	http://xovilichter.de.rs/	txt	
 54	http://raubal-it.de/xovilichter/	txt	
@@ -94,19 +94,19 @@ position	url	type	google_plus_name
 88	http://www.etvisio.de/xovilichter.html	txt	
 89	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
 90	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
-91	http://www.pinterest.com/xovilichter/	txt	
-92	http://o-pr.de/post/ronny-4-xovilichter/	txt	
+91	http://o-pr.de/post/ronny-4-xovilichter/	txt	
+92	http://www.pinterest.com/xovilichter/	txt	
 93	http://www.dergeldblog.de/2014/05/28/xovilichter-machst-du-auch-mit/	txt	
 94	https://github.com/xovilichter/dynapso	txt	
 95	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
 96	http://www.machholz-online.de/xovilichter/xovilichter	txt	
-97	http://xovilichter.co.in/	txt	
-98	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
+97	http://www.danigee.de/xovilichter-zwischenbericht-ende-mai/	txt	
+98	http://xovilichter.co.in/	txt	
 99	http://fullmetalseo2013.net/xovilichter-seo-contest-2014/	txt	Michael Wodetzki
 100	http://www.xovilichter2014.de/	txt	
 101	http://www.blog-8.de/xovilichter-xovi-challenge-2014	txt	
-102	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
-103	http://www.xovilichter-wettbewerb.de/	txt	Enrico Schuetze
+102	http://www.xovilichter-wettbewerb.de/	txt	Enrico Schuetze
+103	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
 104	http://www.elder-scrolls-online.de/community/7390-xovilichter/profile.html	txt	
 105	http://xovilichter-goettingen.de/	txt	
 106	http://www.slideshare.net/xovilichter_seo	txt	
@@ -119,7 +119,7 @@ position	url	type	google_plus_name
 113	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	txt	
 114	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
 115	http://www.sumax.de/xovilichter	txt	
-116	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
-117	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
+116	http://www.junge-gruender.de/news/xovilichter	txt	Kevin Pflock
+117	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
 118	http://e-commerce-blog.de/xovilichter/	txt	Mirko Peters
 119	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt

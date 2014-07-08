@@ -1,4 +1,4 @@
-last_update:2014-07-08 04:00
+last_update:2014-07-08 03:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -104,8 +104,8 @@ position	url	type	google_plus_name
 98	http://www.sumax.de/xovilichter	txt	
 99	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
 100	http://www.kpp-group.de/xovilichter-seo-wettbewerb/	txt	Wolfgang Brand
-101	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
-102	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547/start-60.html	txt	
+101	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547/start-60.html	txt	
+102	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
 103	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
 104	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	txt	
 105	http://e-commerce-blog.de/xovilichter/	txt	Mirko Peters

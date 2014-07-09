@@ -1,0 +1,15 @@
+last_update:2014-07-09 03:15
+position	url	type	google_plus_name	google_plus_short_url
+0		image		
+0		image		
+0		image		
+0		image		
+0		image		
+1	https://www.xovilichter-shop.de/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+2	https://www.deutsche-mikroinvest.de/xovilichter&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+3	https://twitter.com/hashtag/xovilichter&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+4	https://www.facebook.com/xovilichter2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+5	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+6	https://www.data-blue.de/xovilichter-shop/Xovilichter-Caipidelirium/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+7	https://www.azionare360.de/de/tag/xovilichter/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+8	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		

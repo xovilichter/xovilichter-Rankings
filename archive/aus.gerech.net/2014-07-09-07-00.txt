@@ -1,4 +1,4 @@
-last_update:2014-07-09 07:00
+last_update:2014-07-09 06:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -11,13 +11,13 @@ position	url	type	google_plus_name
 8.2	http://schnurpsel.de/xovilichter/	img	
 8.3	http://schnurpsel.de/xovilichter/	img	
 8.4	http://heiko-hoehn.com/2014/05/01/xovilichter/	img	
-8.5	http://ronny-marx.de/xovilichter/	img	
+8.5	http://schnurpsel.de/xovilichter/	img	
 9	http://www.illerseo.de/xovilichter	txt	
 10	http://www.omsag.de/xovilichter/	txt	
 11	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
 12	http://xovilichter-73.de/	txt	Markus Horn
-13	http://www.secondlifepeople.com/	txt	
-14	http://greatsolution.eu/xovilichter/	txt	
+13	http://greatsolution.eu/xovilichter/	txt	
+14	http://www.secondlifepeople.com/	txt	
 15	http://www.xovilichter-koeln.de/	txt	Kristian Fischer
 16	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 17	http://www.vexeo.de/xovilichter/	txt	
@@ -60,8 +60,8 @@ position	url	type	google_plus_name
 54	http://www.3fx-media.de/xovilichter/	txt	
 55	http://www.geschichte-oesterreich.com/xovilichter	txt	
 56	http://www.xovilichter-gewinnspiel.de/	txt	
-57	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
-58	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
+57	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
+58	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 59	https://www.data-blue.de/xovilichter-shop/Xovilichter-Caipidelirium/	txt	
 60	http://www.hildesheimfirma.de/xovilichter.html	txt	
 61	http://xovilichter-contest.de/	txt	
@@ -72,13 +72,13 @@ position	url	type	google_plus_name
 66	http://www.xovilichter-wettbewerb.de/	txt	Enrico Schuetze
 67	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
 68	http://www.pinterest.com/xovilichter/	txt	
-69	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-70	http://pm.connektar.de/it-software-web/das-finale-naht-der-xovilichter-seo-contest-geht-in-die-finale-phase-24499	txt	
+69	http://pm.connektar.de/it-software-web/das-finale-naht-der-xovilichter-seo-contest-geht-in-die-finale-phase-24499	txt	
+70	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
 71	http://xovilichter.co.in/	txt	
 72	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn
-73	http://www.xovilichter2014.de/	txt	
-74	http://www.etvisio.de/xovilichter.html	txt	
-75	http://www.spirofrog.de/blog/xovilichter/	txt	
+73	http://www.spirofrog.de/blog/xovilichter/	txt	
+74	http://www.xovilichter2014.de/	txt	
+75	http://www.etvisio.de/xovilichter.html	txt	
 76	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
 77	http://xovilichter-goettingen.de/	txt	
 78	http://www.slideshare.net/xovilichter_seo	txt	
@@ -89,9 +89,9 @@ position	url	type	google_plus_name
 83	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
 84	http://www.sumax.de/xovilichter	txt	
 85	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
-86	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
-87	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
-88	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+86	http://xovilichter.phpnuke-service.de/	txt	Harald Hildebrandt
+87	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze
+88	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 89	http://www.txjl88.com/2014/05/xovilichter.html	txt	
 90	http://www.xovilichterblog.de/xovilichter-halbzeit-analyse-am-tag-40-teil-2/	txt	Alex Buchanan
 91	http://www.etmservice.com/	txt	
@@ -118,8 +118,8 @@ position	url	type	google_plus_name
 112	http://stuttgart-eventagentur.de/xovilichter-party/	txt	Alex Buchanan
 113	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	txt	
 114	http://seoptiker.de/xovilichter/	txt	
-115	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
-116	http://www.weihmann.de/blog/xovilichter/	txt	
-117	http://bla-fasel.de/xovilichter/	txt	
-118	http://www.sumasearch.de/xovilichter.html	txt	
+115	http://www.sumasearch.de/xovilichter.html	txt	
+116	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
+117	http://www.weihmann.de/blog/xovilichter/	txt	
+118	http://bla-fasel.de/xovilichter/	txt	
 119	http://www.xovilichter-event.de/	txt	

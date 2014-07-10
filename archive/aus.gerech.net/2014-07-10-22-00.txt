@@ -1,4 +1,4 @@
-last_update:2014-07-10 22:00
+last_update:2014-07-10 21:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -7,12 +7,12 @@ position	url	type	google_plus_name
 5	http://ronny-marx.de/xovilichter/	txt	
 6	http://www.xovilichter-smx.de/	txt	
 7	http://www.omsag.de/xovilichter/	txt	
-8	http://www.illerseo.de/xovilichter	txt	
-9.1	http://schnurpsel.de/xovilichter/	img	
-9.2	http://aus.gerech.net/xovilichter/	img	
-9.3	http://schnurpsel.de/xovilichter/	img	
-9.4	http://ronny-marx.de/xovilichter/	img	
-9.5	http://heiko-hoehn.com/2014/05/01/xovilichter/	img	
+8.1	http://ronny-marx.de/xovilichter/	img	
+8.2	http://www.dynapso.de/xovilichter/	img	
+8.3	http://www.dynapso.de/xovilichter/	img	
+8.4	http://aus.gerech.net/xovilichter/	img	
+8.5	http://ronny-marx.de/xovilichter/	img	
+9	http://www.illerseo.de/xovilichter	txt	
 10	http://www.secondlifepeople.com/	txt	Wolfgang Brand
 11	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 12	http://greatsolution.eu/xovilichter/	txt	
@@ -53,21 +53,21 @@ position	url	type	google_plus_name
 47	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 48	http://www.3fx-media.de/xovilichter/	txt	
 49	http://www.geschichte-oesterreich.com/xovilichter	txt	
-50	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
-51	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-52	http://www.etvisio.de/xovilichter.html	txt	
-53	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
-54	http://www.vexeo.de/xovilichter/	txt	
-55	https://www.data-blue.de/xovilichter-shop/Xovilichter-Caipidelirium/	txt	
-56	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
-57	http://pm.connektar.de/internet-ecommerce/der-xovilichter-seo-contest-infos-und-news-zum-wettbewerb-24575	txt	
+50	http://pm.connektar.de/internet-ecommerce/der-xovilichter-seo-contest-infos-und-news-zum-wettbewerb-24575	txt	
+51	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
+52	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
+53	http://www.etvisio.de/xovilichter.html	txt	
+54	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
+55	http://www.vexeo.de/xovilichter/	txt	
+56	https://www.data-blue.de/xovilichter-shop/Xovilichter-Caipidelirium/	txt	
+57	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
 58	http://www.hildesheimfirma.de/xovilichter.html	txt	
 59	http://www.die-infoseiten.de/xovilichter/	txt	
 60	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
 61	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 62	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
-63	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
-64	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
+63	http://schnurpsel.de/xovilichter/	txt	Ingo Henze
+64	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
 65	http://www.pinterest.com/xovilichter/	txt	
 66	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 67	http://heiko-hoehn.com/2014/05/01/xovilichter/	txt	Heiko Höhn

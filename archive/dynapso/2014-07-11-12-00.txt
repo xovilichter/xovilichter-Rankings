@@ -1,0 +1,12 @@
+last_update:2014-07-11 11:45
+position	url	type	google_plus_name	google_plus_short_url
+0		image		
+0		image		
+0		image		
+0		image		
+0		image		
+1	https://www.xovilichter-shop.de/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+2	https://www.facebook.com/xovilichter2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+3	https://www.azionare360.de/de/tag/xovilichter/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+4	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+5	https://itunes.apple.com/de/app/xovilichter/id881194669?mt=8&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		

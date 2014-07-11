@@ -1,107 +1,12 @@
-last_update:2014-07-11 10:45
+last_update:2014-07-11 11:45
 position	url	type	google_plus_name	google_plus_short_url
-1	http://www.xovi.de/xovilichter/	organic		
-2	http://www.xovi.de/xovilichter/results.html	organic		
-3	http://www.habbo.cx/xovilichter	organic		
-4	http://www.dynapso.de/xovilichter/	organic		
-5	http://ronny-marx.de/xovilichter/	organic		
-6	http://www.xovilichter-smx.de/	organic		
-7	http://www.omsag.de/xovilichter/	organic		
-8	http://www.illerseo.de/xovilichter	organic		
-8		image		
-8		image		
-8		image		
-8		image		
-8		image		
-9	http://www.secondlifepeople.com/	organic		
-10	http://greatsolution.eu/xovilichter/	organic		
-11	http://aus.gerech.net/xovilichter/	organic		
-12	http://www.google-gamer.de/xovilichter/	organic		
-13	http://www.jennifer-kosmetik.de/xovilichter/	organic		
-14	http://xovilichter.quickdict.de/	organic		
-15	http://www.pilotenausbildung-24.de/xovilichter/	organic		
-16	http://www.hk-marketing.eu/xovilichter/	organic		
-17	https://www.xovilichter-shop.de/	organic		
-18	http://www.reknova.de/xovilichter	organic		
-19	http://www.search-one.de/xovilichter/	organic		
-20	http://www.seomira.de/xovilichter.html	organic		
-21	http://www.contentking.de/neuer-seo-contest-xovilichter/	organic		
-22	http://www.slms.de/xovilichter/	organic		
-23	http://www.webspurt.de/xovilichter/	organic		
-24	https://twitter.com/hashtag/xovilichter	organic		
-25	http://www.upon-onlinemarketing.de/xovilichter-analyse/	organic		
-26	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	organic		
-27	http://www.tobias-fox.de/seo/xovilichter	organic		
-28	http://www.suchmaschinenmonitor.de/xovilichter	organic		
-29	http://xovilichter-gewinner.de/	organic		
-30	https://www.deutsche-mikroinvest.de/xovilichter	organic		
-31	http://www.wrel.de/xovilichter/	organic		
-32	https://www.facebook.com/xovilichter2014	organic		
-33	http://www.elsalumni.de/	organic		
-34	http://www.domfolio.de/xovilichter/	organic		
-35	http://www.etmservice.com/	organic		
-36	http://rankpress.de/xovilichter-2014/	organic		
-37	http://xovilichter.de.rs/	organic		
-38	http://raubal-it.de/xovilichter/	organic		
-39	http://www.webkarat.com/xovilichter/	organic		
-40	http://www.xovilichter-news.de/	organic		
-41	http://www.seodiddy.com/xovilichter/	organic		
-42	http://www.geschichte-oesterreich.com/xovilichter	organic		
-43	http://xovilichter.eu.com/	organic		
-44	http://www.onlinemarketing-spezialist.de/xovilichter	organic		
-45	http://xtremegn.de/webdesign/xovilichter/	organic		
-46	https://www.azionare360.de/de/tag/xovilichter/	organic		
-47	http://www.3fx-media.de/xovilichter/	organic		
-48	http://muchgadget.tumblr.com/post/85062356606/xovilichter	organic		
-49	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	organic		
-50	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	organic		
-51	http://www.syntax-media.de/xovilichter/	organic		
-52	http://www.etvisio.de/xovilichter.html	organic		
-53	http://xovilichter.myepoints.de/	organic		
-54	http://www.vexeo.de/xovilichter/	organic		
-55	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	organic		
-56	http://tobi2.de/2014/06/30/xovilichter/	organic		
-57	http://www.hildesheimfirma.de/xovilichter.html	organic		
-58	http://www.die-infoseiten.de/xovilichter/	organic		
-59	http://xovilichter.complex-berlin.de/	organic		
-60	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	organic		
-61	http://www.gute-linkpartner.de/xovilichter.html	organic		
-62	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	organic		
-63	http://www.pinterest.com/xovilichter/	organic		
-64	https://www.eventbrite.de/e/xovilichter-battle-seo-contest-tickets-12033543653	organic		
-65	http://schnurpsel.de/xovilichter/	organic		
-66	http://heiko-hoehn.com/2014/05/01/xovilichter/	organic		
-67	http://www.sumasearch.de/xovilichter.html	organic		
-68	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	organic		
-69	http://www.forum-cubieboard.de/User-xovilichter	organic		
-70	http://www.xing.com/events/xovilichter-19-07-14-1401114	organic		
-71	http://www.txjl88.com/2014/05/xovilichter.html	organic		
-72	http://www.sumax.de/xovilichter	organic		
-73	http://wer-weiss-wo.de/questions/xovilichter-battle-seo-contest	organic		
-74	http://xovilichter.phpnuke-service.de/	organic		
-75	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	organic		
-76	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	organic		
-77	http://www.g2smedia.de/xovilichter/	organic		
-78	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	organic		
-79	http://www.webtechcs.com/	organic		
-80	http://www.youtube.com/user/xovilichter	organic		
-81	http://14-tage-dresden.de/dd/xovilichter/	organic		
-82	http://xovilichter.innovarion.de/	organic		
-83	http://www.webspurt-presse.de/xovilichter-machen-die-anderen/	organic		
-84	http://www.portalderwirtschaft.de/pressemitteilung/215171/der-xovilichter-seo-contest-infos-und-news-zum-wettbewerb.html	organic		
-85	http://www.freggers-wiki.de/wiki/index.php?title=Benutzer:Agung305	organic		
-86	http://cbop.de/xovilichter/	organic		
-87	http://www.first-responder.ch/xovilichter/	organic		
-88	http://bots-sa.com/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=213&amp;Itemid=174	organic		
-89	http://support.onlinegruppen.se/entries/71496426-Xovilichter	organic		
-90	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	organic		
-91	http://www.searchnmerge.com/XOVILICHTER.html	organic		
-92	https://itunes.apple.com/de/app/xovilichter/id881194669?mt=8	organic		
-93	http://stuttgart-eventagentur.de/xovilichter-party/	organic		
-94	http://xovilichter.open-source-shop-systeme.de/	organic		
-95	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	organic		
-96	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547/start-60.html	organic		
-97	http://netgrade.de/xovilichter/	organic		
-98	https://wiki.uef.fi/display/DEBEG/2014/06/07/Xocilichter+Keyword+Challenge+2014	organic		
-99	http://my-websites.de/xovilichter-das-wohl-groesste-seo-gewinnspiel-aller-zeiten/	organic		
-100	http://o-pr.de/post/ronny-4-xovilichter/	organic		
+0		image		
+0		image		
+0		image		
+0		image		
+0		image		
+1	https://www.xovilichter-shop.de/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+2	https://www.facebook.com/xovilichter2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+3	https://www.azionare360.de/de/tag/xovilichter/&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+4	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		
+5	https://itunes.apple.com/de/app/xovilichter/id881194669?mt=8&amp;rct=j&amp;frm=1&amp;q=&amp;esrc=s	organic		

@@ -1,4 +1,4 @@
-last_update:2014-07-11 07:00
+last_update:2014-07-11 08:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -64,8 +64,8 @@ position	url	type	google_plus_name
 58	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 59	http://www.die-infoseiten.de/xovilichter/	txt	
 60	http://www.koelner-lichter.de/parties-locations/koelner-lichter-parties-locations-xovilichter.php	txt	
-61	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
-62	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+61	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+62	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 63	http://www.raicus.de/wiki/index.php/Benutzer:Agung305	txt	
 64	http://www.pinterest.com/xovilichter/	txt	
 65	http://schnurpsel.de/xovilichter/	txt	Ingo Henze

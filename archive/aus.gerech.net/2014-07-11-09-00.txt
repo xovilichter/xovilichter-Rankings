@@ -1,4 +1,4 @@
-last_update:2014-07-11 09:00
+last_update:2014-07-11 08:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -27,8 +27,8 @@ position	url	type	google_plus_name
 21	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
 22	http://www.seomira.de/xovilichter.html	txt	
 23	https://www.deutsche-mikroinvest.de/xovilichter	txt	
-24	http://www.slms.de/xovilichter/	txt	
-25	http://www.upon-onlinemarketing.de/xovilichter-analyse/	txt	Alex Buchanan
+24	http://www.upon-onlinemarketing.de/xovilichter-analyse/	txt	Alex Buchanan
+25	http://www.slms.de/xovilichter/	txt	
 26	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
 27	https://twitter.com/hashtag/xovilichter	txt	
 28	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert

@@ -1,4 +1,4 @@
-last_update:2014-07-13 23:00
+last_update:2014-07-13 22:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -59,8 +59,8 @@ position	url	type	google_plus_name
 53	http://www.pinterest.com/xovilichter/	txt	
 54	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
 55	http://www.syntax-media.de/xovilichter/	txt	Carsten Zedler
-56	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
-57	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+56	http://tobi2.de/2014/06/30/xovilichter/	txt	Tobias Selb
+57	http://www.seokratie.de/xovilichter-teilnehmeranalyse/	txt	Julian Dziki
 58	http://www.etvisio.de/xovilichter.html	txt	
 59	http://www.hildesheimfirma.de/xovilichter.html	txt	
 60	http://www.die-infoseiten.de/xovilichter/	txt	
@@ -116,8 +116,8 @@ position	url	type	google_plus_name
 110	http://webropolis.com/xovilichter/news/4411/	txt	Frank Reymann
 111	https://github.com/xovilichter/dynapso	txt	
 112	http://www.toms-car-hifi.de/xovilichter	txt	
-113	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
-114	http://www.spirofrog.de/blog/xovilichter/	txt	
+113	http://www.spirofrog.de/blog/xovilichter/	txt	
+114	https://play.google.com/store/apps/details?id=de.my.websites.xovilichter	txt	
 115	https://www.bibeo.de/xovilichter/	txt	
 116	http://xovilichter.koeln-news-247.de/	txt	
 117	http://bots-sa.com/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=213&amp;Itemid=174	txt	

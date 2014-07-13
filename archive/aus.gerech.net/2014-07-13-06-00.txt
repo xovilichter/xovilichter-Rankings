@@ -1,4 +1,4 @@
-last_update:2014-07-13 06:00
+last_update:2014-07-13 05:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
@@ -97,15 +97,15 @@ position	url	type	google_plus_name
 92	http://www.searchnmerge.com/XOVILICHTER.html	txt	
 93	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
 94	http://my-websites.de/die-xovilichter-rankings/	txt	
-95	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547/start-60.html	txt	
-96	http://www.prseo.de/xovilichter.html	txt	
-97	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
-98	http://www.spirofrog.de/blog/xovilichter/	txt	
+95	http://www.spirofrog.de/blog/xovilichter/	txt	
+96	http://www.abakus-internet-marketing.de/foren/viewtopic/t-124547/start-60.html	txt	
+97	http://www.prseo.de/xovilichter.html	txt	
+98	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
 99	http://xovilichter.open-source-shop-systeme.de/	txt	Harald Hildebrandt
 100	http://www.zentraler-kreditausschuss.de/	txt	
 101	http://netgrade.de/xovilichter/	txt	Robert Kolloch
-102	http://felodeseo.com/xovilichter/	txt	Alexander Malatyali
-103	http://www.webspurt-presse.de/xovilichter-machen-die-anderen/	txt	
+102	http://www.webspurt-presse.de/xovilichter-machen-die-anderen/	txt	
+103	http://felodeseo.com/xovilichter/	txt	Alexander Malatyali
 104	http://www.seekport.de/web/xovilichter.com	txt	
 105	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev
 106	http://www.weihmann.de/blog/xovilichter/	txt	

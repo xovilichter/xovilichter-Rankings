@@ -1,9 +1,9 @@
-last_update:2014-07-15 17:00
+last_update:2014-07-15 16:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.xovi.de/xovilichter/results.html	txt	
-3	http://www.habbo.cx/xovilichter	txt	
-4	http://ronny-marx.de/xovilichter/	txt	
+3	http://ronny-marx.de/xovilichter/	txt	
+4	http://www.habbo.cx/xovilichter	txt	
 5	http://www.dynapso.de/xovilichter/	txt	Nicolas Sacotte
 6	http://www.xovilichter-smx.de/	txt	
 7	http://www.rankboost.de/xovilichter/	txt	Simon Schmid
@@ -16,16 +16,16 @@ position	url	type	google_plus_name
 12.3	http://www.dynapso.de/xovilichter/	img	
 12.4	http://www.dynapso.de/xovilichter/	img	
 12.5	http://www.dynapso.de/xovilichter/	img	
-13	http://greatsolution.eu/xovilichter/	txt	
-14	http://www.secondlifepeople.com/	txt	Wolfgang Brand
+13	http://www.secondlifepeople.com/	txt	Wolfgang Brand
+14	http://greatsolution.eu/xovilichter/	txt	
 15	http://xovilichter-73.de/	txt	Markus Horn
 16	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
 17	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 18	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 19	http://www.contentking.de/neuer-seo-contest-xovilichter/	txt	Nicolas Sacotte
 20	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
-21	http://www.hk-marketing.eu/xovilichter/	txt	
-22	http://www.webkarat.com/xovilichter/	txt	Rainer Brosy
+21	http://www.webkarat.com/xovilichter/	txt	Rainer Brosy
+22	http://www.hk-marketing.eu/xovilichter/	txt	
 23	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 24	http://xovilichter.eu.com/	txt	
 25	http://xovilichter.tips/	txt	
@@ -51,8 +51,8 @@ position	url	type	google_plus_name
 45	http://www.domfolio.de/xovilichter/	txt	Jens Peterssen
 46	http://raubal-it.de/xovilichter/	txt	
 47	http://xovilichter.de.rs/	txt	
-48	https://www.azionare360.de/de/tag/xovilichter/	txt	Michel Walther
-49	http://www.kfsw.de/teilnehmer/1553/08d59fda96f2d8b881564d62a6892b73ae75d210128cc56975204851e18f2dc0.html	txt	
+48	http://www.kfsw.de/teilnehmer/1553/08d59fda96f2d8b881564d62a6892b73ae75d210128cc56975204851e18f2dc0.html	txt	
+49	https://www.azionare360.de/de/tag/xovilichter/	txt	Michel Walther
 50	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
 51	http://www.geschichte-oesterreich.com/xovilichter	txt	
 52	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt

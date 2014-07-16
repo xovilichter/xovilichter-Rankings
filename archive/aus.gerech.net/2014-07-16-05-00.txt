@@ -1,4 +1,4 @@
-last_update:2014-07-16 05:00
+last_update:2014-07-16 04:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -45,8 +45,8 @@ position	url	type	google_plus_name
 40	http://raubal-it.de/xovilichter/	txt	
 41	http://xovilichter.de.rs/	txt	
 42	https://www.azionare360.de/de/tag/xovilichter/	txt	Michel Walther
-43	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
-44	http://www.kfsw.de/teilnehmer/1553/08d59fda96f2d8b881564d62a6892b73ae75d210128cc56975204851e18f2dc0.html	txt	
+43	http://www.kfsw.de/teilnehmer/1553/08d59fda96f2d8b881564d62a6892b73ae75d210128cc56975204851e18f2dc0.html	txt	
+44	http://www.webspurt.de/xovilichter/	txt	Jan Kuhl
 45	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 46	http://www.geschichte-oesterreich.com/xovilichter	txt	
 47	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan

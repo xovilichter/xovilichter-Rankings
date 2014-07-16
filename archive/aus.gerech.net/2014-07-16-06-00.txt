@@ -1,4 +1,4 @@
-last_update:2014-07-16 06:00
+last_update:2014-07-16 05:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.habbo.cx/xovilichter	txt	
@@ -52,8 +52,8 @@ position	url	type	google_plus_name
 47	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
 48	http://www.seodiddy.com/xovilichter/	txt	
 49	http://www.cash4webmaster.de/downloads/xovilichter-ebook.pdf	txt	
-50	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
-51	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
+50	http://www.onlinemarketing-spezialist.de/xovilichter	txt	
+51	https://support.hyperic.com/display/~marty/Xovilichter+Keyword+Challenge+2014	txt	
 52	http://www.3fx-media.de/xovilichter/	txt	
 53	http://xtremegn.de/webdesign/xovilichter/	txt	Tommy Weber
 54	http://www.gute-linkpartner.de/xovilichter.html	txt	Andreas Ganter
@@ -78,8 +78,8 @@ position	url	type	google_plus_name
 73	http://www.first-responder.ch/xovilichter/	txt	
 74	http://www.forum-cubieboard.de/User-xovilichter	txt	
 75	http://wer-weiss-wo.de/questions/xovilichter-battle-seo-contest	txt	
-76	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
-77	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	txt	
+76	http://www.mindflowmedia.de/aktuelles/395-xovilichter-erhellen-die-seo-leuchten	txt	
+77	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 78	http://seo-suchmaschinenoptimierung.de.tl/Xovilichter-Gewinnspiel.htm	txt	
 79	http://blog.netformic.de/wp-content/uploads/2014/05/Xovilichter-Checkliste.pdf	txt	
 80	http://putzlowitsch.de/2014/06/16/xovilichter-stopft-das-sommerloch-noch-doch-och/	txt	Ingo Henze

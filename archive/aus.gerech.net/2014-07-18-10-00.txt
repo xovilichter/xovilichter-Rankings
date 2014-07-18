@@ -1,40 +1,40 @@
-last_update:2014-07-18 10:00
+last_update:2014-07-18 09:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.dynapso.de/xovilichter/	txt	Nicolas Sacotte
 3	http://www.habbo.cx/xovilichter	txt	
 4	http://www.omsag.de/xovilichter/	txt	
 5	http://ronny-marx.de/xovilichter/	txt	
-6	http://www.rankboost.de/xovilichter-2014/	txt	Simon Schmid
-7.1	http://www.srware.net/news/9600/Xovilichter-Das-Ende-des-SEO-Wettbewerbs-ist-in-Sicht	new	
-8	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
+6.1	http://www.srware.net/news/9600/Xovilichter-Das-Ende-des-SEO-Wettbewerbs-ist-in-Sicht	new	
+7	http://www.search-one.de/xovilichter/	txt	Kai Spriestersbach
+8	http://www.rankboost.de/xovilichter-2014/	txt	Simon Schmid
 9	http://www.xovilichter-smx.de/	txt	
 10	http://www.illerseo.de/xovilichter	txt	
 11.1	http://ronny-marx.de/xovilichter/	img	
 11.2	http://www.dynapso.de/xovilichter/	img	
 11.3	http://www.dynapso.de/xovilichter/	img	
 11.4	http://www.dynapso.de/xovilichter/	img	
-12	http://www.secondlifepeople.com/	txt	Wolfgang Brand
-13	http://greatsolution.eu/xovilichter/	txt	
+12	http://greatsolution.eu/xovilichter/	txt	
+13	http://www.secondlifepeople.com/	txt	Wolfgang Brand
 14	http://xovilichter-73.de/	txt	Markus Horn
 15	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
 16	http://www.google-gamer.de/xovilichter/	txt	Julian Raab
 17	http://xovilichter-gewinner.de/	txt	
-18	http://www.webkarat.com/xovilichter/	txt	Rainer Brosy
-19	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
+18	http://www.upon-onlinemarketing.de/xovilichter/	txt	Alex Buchanan
+19	http://www.webkarat.com/xovilichter/	txt	Rainer Brosy
 20	http://muchgadget.tumblr.com/post/85062356606/xovilichter	txt	
 21	http://aus.gerech.net/xovilichter/	txt	Ingo Henze
 22	https://www.data-blue.de/xovilichter-shop/	txt	
 23	http://www.jennifer-kosmetik.de/xovilichter/	txt	
-24	http://www.xovilichterinfo.com/	txt	
-25	http://www.xovilichter-koeln.de/	txt	
+24	http://www.xovilichter-koeln.de/	txt	
+25	http://www.xovilichterinfo.com/	txt	
 26	http://www.quickdict.de/xovilichter.php	txt	
 27	http://xovilichter.eu.com/	txt	
 28	http://seocouch.de/xovilichter-seo-contest-bringt-licht-ins-dunkle/	txt	Heiko Stiegert
 29	http://www.etmservice.com/	txt	
 30	http://www.xovilichterr.de/	txt	
-31	http://www.xovilichter-seo.de/	txt	Arno Münzer
-32	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
+31	http://playboy-seo.blogspot.com/2014/05/xovilichter.html	txt	Agung Purnomo
+32	http://www.xovilichter-seo.de/	txt	Arno Münzer
 33	http://www.slms.de/xovilichter/	txt	
 34	http://www.wrel.de/xovilichter/	txt	
 35	https://www.facebook.com/xovilichter2014	txt	
@@ -101,8 +101,8 @@ position	url	type	google_plus_name
 96	http://www.g2smedia.de/xovilichter/	txt	Stefan Seibel
 97	http://wer-weiss-wo.de/questions/xovilichter-battle-seo-contest	txt	
 98	https://itunes.apple.com/de/app/xovilichter/id881194669?mt=8	txt	
-99	http://14-tage-dresden.de/dd/xovilichter/	txt	
-100	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+99	http://rankpress.de/xovilichter-2014/	txt	Michael Boenigk
+100	http://14-tage-dresden.de/dd/xovilichter/	txt	
 101	http://www.seekport.de/web/xovilichter.com	txt	
 102	https://play.google.com/store/apps/details?id=de.omsag.xovilichtermonitor&amp;hl=de	txt	
 103	http://support.onlinegruppen.se/entries/71496426-Xovilichter	txt	
@@ -113,13 +113,13 @@ position	url	type	google_plus_name
 108	http://xovilichter-xovilichter.de/	txt	
 109	http://xovilichter.li/	txt	
 110	http://www.searchnmerge.com/XOVILICHTER.html	txt	
-111	http://www.onetaste.de/event/xovilichter-seo-party-2014	txt	
-112	http://cbop.de/xovilichter/	txt	Marcel Köhler
+111	http://cbop.de/xovilichter/	txt	Marcel Köhler
+112	http://www.onetaste.de/event/xovilichter-seo-party-2014	txt	
 113	http://blog.ska-network.com/seo/xovilichter/xovilichter-seo-keyword-challenge-2014/	txt	Pierre Schramm
 114	http://www.1elf-xovilichter.de/	txt	
 115	http://t3n.de/news/seo-wettbewerb-xovilichter-542744/	txt	Lars Budde
 116	http://www.zentraler-kreditausschuss.de/	txt	
-117	http://www.prseo.de/xovilichter.html	txt	
-118	http://www.weihmann.de/blog/xovilichter/	txt	
+117	http://www.weihmann.de/blog/xovilichter/	txt	
+118	http://www.prseo.de/xovilichter.html	txt	
 119	http://www.motor-talk.de/blogs/xovilichter-challenge-2014	txt	
 120	http://www.meineseiteaufplatzeins.de/index.php/xovi-startet-seo-contest-zum-keyword-xovilichter/	txt	Boris Alexeev

@@ -1,4 +1,4 @@
-last_update:2014-07-19 07:00
+last_update:2014-07-19 06:00
 position	url	type	google_plus_name
 1	http://www.xovi.de/xovilichter/	txt	
 2	http://www.rankboost.de/xovilichter-2014/	txt	Simon Schmid
@@ -27,8 +27,8 @@ position	url	type	google_plus_name
 22	http://www.jennifer-kosmetik.de/xovilichter/	txt	
 23	http://xovilichter.eu.com/	txt	
 24	http://www.xovilichterr.de/	txt	
-25	http://www.quickdict.de/xovilichter.php	txt	
-26	http://www.xovilichter-koeln.de/	txt	
+25	http://www.xovilichter-koeln.de/	txt	
+26	http://www.quickdict.de/xovilichter.php	txt	
 27	http://www.xovilichter-seo.de/	txt	Arno Münzer
 28	http://www.suchmaschinenmonitor.de/xovilichter	txt	Julian Roedig
 29	http://www.seomira.de/xovilichter.html	txt	
@@ -38,8 +38,8 @@ position	url	type	google_plus_name
 33	https://www.facebook.com/xovilichter2014	txt	
 34	http://www.pilotenausbildung-24.de/xovilichter/	txt	Roman Fürderer
 35	http://www.wrel.de/xovilichter/	txt	
-36	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
-37	https://twitter.com/hashtag/xovilichter	txt	
+36	https://twitter.com/hashtag/xovilichter	txt	
+37	http://xovilichter.complex-berlin.de/	txt	Harald Hildebrandt
 38	http://raubal-it.de/xovilichter/	txt	
 39	http://www.tobias-fox.de/seo/xovilichter	txt	Tobias Fox
 40	http://www.etmservice.com/	txt	

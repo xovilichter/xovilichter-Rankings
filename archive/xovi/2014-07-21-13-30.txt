@@ -1,4 +1,4 @@
-last_update:2014-07-21 14:00
+last_update:2014-07-21 13:30
 position	url
 1.</span><span data-sort="www.xovi.de/xovilichter/" class="url nodiff out "><a href="http://www.xovi.de/xovilichter/" target="_blank">www.xovi.de/xovilichter/</a	http://www.rankboost.de/xovilichter-2014/
 3.</span><span data-sort="www.omsag.de/xovilichter/" class="url nodiff "><a href="http://www.omsag.de/xovilichter/" target="_blank">www.omsag.de/xovilichter/</a	http://www.dynapso.de/xovilichter/
@@ -18,8 +18,8 @@ position	url
 18	http://www.xovilichterinfo.com/
 19	http://playboy-seo.blogspot.com/2014/05/xovilichter.html
 20	http://aus.gerech.net/xovilichter/
-21	http://xovilichter.complex-berlin.de/
-22	http://www.wrel.de/xovilichter/
-23	https://www.facebook.com/xovilichter2014
-24	http://www.tobias-fox.de/seo/xovilichter
-25	http://www.suchmaschinenmonitor.de/xovilichter
+21	http://www.xovilichterr.de/
+22	http://www.seomira.de/xovilichter.html
+23	http://xovilichter-seo-contest.quickdict.de/
+24	https://www.data-blue.de/xovilichter-shop/
+25	http://www.slms.de/xovilichter/

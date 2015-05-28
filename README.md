@@ -5,7 +5,7 @@ Dieses Projekt speichert zu Archivzwecken die Xovi & Dynapso [Keyword Monitoring
 # Installation
 
 * Repository herunterladen
-* Aktuelle [Xovi](https://github.com/xovilichter/xovi) und [Dynapso](https://github.com/xovilichter/dynapso) Funktion in den "include" Ordner laden
+* Aktuelle [Xovi](http://www.keywordmonitoring.de/tools/xovi/) und [Dynapso](https://github.com/xovilichter/dynapso) Funktion in den "include" Ordner laden
 * Ggf. Schreibrechte für die Ordner archive/xovi & archive/dynapso setzen
 * Cronjob einrichten oder Dateien manuell aufrufen
 

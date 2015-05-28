@@ -1,6 +1,6 @@
 # Xovilichter Rankings Archiv 1.1
 
-Dieses Projekt speichert zu Archivzwecken die Xovi & Dynapso Ranking Auswertung als Tabulator getrennte Datei. Als Basis dienen der [Xovi](https://github.com/xovilichter/xovi) und [Dynapso](https://github.com/xovilichter/dynapso) Scraper sowie die freie JSON Datei von aus.gerech.net.
+Dieses Projekt speichert zu Archivzwecken die Xovi & Dynapso [Keyword Monitoring](http://www.keywordmonitoring.de/) Ranking Auswertung als Tabulator getrennte Datei. Als Basis dienen der [Xovi](https://github.com/xovilichter/xovi) und [Dynapso](https://github.com/xovilichter/dynapso) Scraper sowie die freie JSON Datei von aus.gerech.net.
 
 # Installation
 
